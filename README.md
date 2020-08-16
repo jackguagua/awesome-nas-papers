@@ -1,5 +1,7 @@
 # Awesome Neural Architecture Search Papers
 
+[（中文）](https://github.com/jackguagua/awesome-nas-papers/blob/master/README_cn.md)
+
 We would like to maintain a complete list of NAS-related papers and provide a guide for some of the papers that have received wide interest.
 ### Table of Contents
 - [2020](#2020) (283)
