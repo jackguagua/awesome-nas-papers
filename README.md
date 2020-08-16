@@ -6,8 +6,8 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 - [2019](#2019)
 - [2018](#2018)
 - [2017](#2017)
-- [2016](#2017)
-- [1988~2015](#1988)
+- [2016](#2016)
+- [1988~2015](#1988-2015)
 
 ### 2020
 
