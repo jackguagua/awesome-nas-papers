@@ -2,12 +2,12 @@
 
 We would like to maintain a complete list of NAS-related papers and provide a guide for some of the papers that have received wide interest.
 ### Table of Contents
-- [2020](#2020)
-- [2019](#2019)
-- [2018](#2018)
-- [2017](#2017)
-- [2016](#2016)
-- [1988~2015](#1988-2015)
+- [2020](#2020) (283)
+- [2019](#2019) (261)
+- [2018](#2018) (72)
+- [2017](#2017) (21)
+- [2016](#2016) (10)
+- [1988~2015](#1988-2015) (12)
 
 ### 2020
 
