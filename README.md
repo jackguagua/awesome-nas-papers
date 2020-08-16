@@ -566,6 +566,8 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search(Chu et al. 2019)](https://arxiv.org/abs/1901.01074) |   | - | - |
 ### 2018
 
+- [back to top](#2020)
+
 |  Title  |   Accepted at  |   Domain   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [A particle swarm optimization-based flexible convolutional auto-encoder for image classification(Sun et al. 2018, published by IEEE Transactions on Neural Networks and Learning Systems)](https://arxiv.org/abs/1712.05042) |   | - | - |
@@ -640,7 +642,10 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [PPP-Net: Platform-aware progressive search for pareto-optimal neural architectures(Dong et al. 2018)](https://openreview.net/pdf?id=B1NT3TAIM) | ICLR’18 workshop | - | - |
 | [Speeding up the Hyperparameter Optimization of Deep Convolutional Neural Networks(Hinz et al. 2018)](https://www.worldscientific.com/doi/abs/10.1142/S1469026818500086) |   | - | - |
 | [Gitgraph – From Computational Subgraphs to Smaller Architecture search spaces(Bennani-Smires et al. 2018)](https://openreview.net/pdf?id=rkiO1_1Pz) |   | - | - |
+
 ### 2017
+
+- [back to top](#2020)
 
 |  Title  |   Accepted at  |   Domain   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -665,7 +670,10 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [SMASH: One-Shot Model Architecture Search through HyperNetworks(Brock et al. 2017)](https://arxiv.org/abs/1708.05344) | NeurIPS workshop on Meta-Learning’17 | - | - |
 | [Efficient Architecture Search by Network Transformation(Cai et al. 2017)](https://arxiv.org/abs/1707.04873) | AAAI’18 | - | - |
 | [Modularized Morphing of Neural Networks(Wei et al. 2017)](https://arxiv.org/abs/1701.03281) |   | - | - |
+
 ### 2016
+
+- [back to top](#2020)
 
 |  Title  |   Accepted at  |   Domain   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -679,7 +687,10 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Neural Architecture Search with Reinforcement Learning(Zoph and Le. 2016)](https://arxiv.org/abs/1611.01578) | ICLR’17 | - | - |
 | [Learning curve prediction with Bayesian Neural Networks(Klein et al. 2017: accepted at ICLR’17)](http://ml.informatik.uni-freiburg.de/papers/17-ICLR-LCNet.pdf) |   | - | - |
 | [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization(Li et al. 2016)](https://arxiv.org/abs/1603.06560) |   | - | - |
+
 ### 1988-2015
+
+- [back to top](#2020)
 
 |  Title  |   Accepted at  |   Domain   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
