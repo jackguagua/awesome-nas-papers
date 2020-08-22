@@ -218,7 +218,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Evolutionary recurrent neural network for image captioning(Wang et al. 2020) ](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304744)  <br>*accepted at Neurocomputing*  | - | - |
 | [Neural Architecture Search for Lightweight Non-Local Networks(Li et al. 2020) ](https://arxiv.org/abs/2004.01961)   | - | - |
 | [A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS(Ning et al. 2020) ](https://arxiv.org/abs/2004.01899)   | - | - |
-| [FedNAS: Federated Deep Learning via Neural Architecture Search(He et al. 2020) ](https://chaoyanghe.com/publications/FedNAS-CVPR2020-NAS.pdf)  <br>*accepted at CVPR 2020 Workshop on Neural Architecture Search and Beyond for Representation Learning*  | - | - |
+| [FedNAS: Federated Deep Learning via Neural Architecture Search(He et al. 2020) ](https://chaoyanghe.com/publications/FedNAS-CVPR2020-NAS.pdf)  <br>*accepted at CVPR 2020 Workshop on Neural Architecture Search and Beyond for Representation Learning*  | Federated Learning  | [Github](https://github.com/chaoyanghe/FedNAS) |
 | [Neural architecture search based on model pool for wildlife identification(Jia et al. 2020) ](https://www.sciencedirect.com/science/article/abs/pii/S092523122030388X)  <br>*accepted at Neurocomputing*  | - | - |
 | [An Evolutionary Approach to Variational Autoencoders(Hajewski and Oliveira. 2020) ](https://ieeexplore.ieee.org/abstract/document/9031239)  <br>*accepted at CCWC’20*  | - | - |
 | [A Scalable System for Neural Architecture Search(Hajewski and Oliveira. 2020) ](https://ieeexplore.ieee.org/abstract/document/9031181)  <br>*accepted at CCWC’20*  | - | - |
@@ -262,15 +262,14 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Semi-Supervised Neural Architecture Search(Luo et al. 2020) ](https://arxiv.org/abs/2002.10389)   | - | - |
 | [Neural Architecture Search for Compressed Sensing Magnetic Resonance Image Reconstruction(Yan et al. 2020) ](https://arxiv.org/abs/2002.09625)   | - | - |
 | [DSNAS: Direct Neural Architecture Search without Parameter Retraining(Hu et al. 2020) ](https://arxiv.org/abs/2002.09128)   | - | - |
-| [Neural Architecture Search For Fault Diagnosis(Li et al. 2020) ](https://arxiv.org/abs/2002.07997)  <br>*accepted at ESREL’20*  | - | - |
-| [Learning Architectures for Binary Networks(Kim et al. 2020) ](https://arxiv.org/abs/2002.06963)  <br>*accepted at ECCV’20*  | - | - |
-| [Efficient Evolutionary Architecture Search for CNN Optimization on GTSRB(Johner and Wassner. 2020) ](https://ieeexplore.ieee.org/abstract/document/8999305/)  <br>*accepted at ICMLA’19*  | - | - |
-| [Automating Deep Neural Network Model Selection for Edge Inference(Lu et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/8998995)  <br>*accepted at CogMI’20*  | - | - |
-| [Neural Architecture Search over Decentralized Data(Xu et al. 2020) ](https://arxiv.org/abs/2002.06352)   | - | - |
-| [Automatic Structural Search for Multi-task Learning VALPs(Garciarena et al. 2020) ](https://link.springer.com/chapter/10.1007/978-3-030-41913-4_3)  <br>*accepted at OLA’20*  | - | - |
-| [RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning(Alletto et al. 2020) ](http://eval.how/aaai-2020/REAIS19_p9.pdf)  <br>*accepted at Meta-Eval 2020 workshop*  | - | - |
-| [Classifying the classifier: dissecting the weight space of neural networks(Eilertsen et al. 2020) ](https://arxiv.org/pdf/2002.05688.pdf)   | - | - |
-| [Stabilizing Differentiable Architecture Search via Perturbation-based Regularization(Chen and Hsieh. 2020) ](https://arxiv.org/abs/2002.05283)   | - | - |
+| [Neural Architecture Search For Fault Diagnosis(Li et al. 2020) ](https://arxiv.org/abs/2002.07997)  <br>*accepted at ESREL’20*  | Fault Diagnosis <br> RL<br> Controller-based | - |
+| [Learning Architectures for Binary Networks(Kim et al. 2020) ](https://arxiv.org/abs/2002.06963)  <br>*accepted at ECCV’20*  | Binary Networks <br> DARTS | - |
+| [Efficient Evolutionary Architecture Search for CNN Optimization on GTSRB(Johner and Wassner. 2020) ](https://ieeexplore.ieee.org/abstract/document/8999305/)  <br>*accepted at ICMLA’19*  | Hardware Accelerator <br>Evolutionary | - |
+| [Automating Deep Neural Network Model Selection for Edge Inference(Lu et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/8998995)  <br>*accepted at CogMI’20*  | Hardware Accelerator | - |
+| [Neural Architecture Search over Decentralized Data(Xu et al. 2020) ](https://arxiv.org/abs/2002.06352)   | Federated Learning <br> | - |
+| [Automatic Structural Search for Multi-task Learning VALPs(Garciarena et al. 2020) ](https://link.springer.com/chapter/10.1007/978-3-030-41913-4_3)  <br>*accepted at OLA’20*  | Multi-task Learning | - |
+| [RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning(Alletto et al. 2020) ](https://arxiv.org/abs/2003.01181)  <br>*accepted at Meta-Eval 2020 workshop*  | Multimodal Learning | - |
+| [Stabilizing Differentiable Architecture Search via Perturbation-based Regularization(Chen and Hsieh. 2020) ](https://arxiv.org/abs/2002.05283)   | DARTS | - |
 | [Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator(Abdelfattah et al. 2020) ](https://arxiv.org/abs/2002.05022)  <br>*accepted at DAC’20*  | Hardware Accelerator <br> RL<br> | - |
 | [Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator Designs Targeting Multiple Tasks(Yang et al. 2020) ](https://arxiv.org/abs/2002.04116)  <br>*accepted at DAC’20*  | Hardware Accelerator <br> ASIC <br> RL<br>Controller-based | - |
 | [FPNet: Customized Convolutional Neural Network for FPGA Platforms(Yang et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/8977837)  <br>*accepted at FPT’20*  | Hardware Accelerator <br> FPGA <br> RL<br> Controller-based | - |
