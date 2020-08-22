@@ -255,13 +255,13 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [NAS-Count: Counting-by-Density with Neural Architecture Search(Hu et al. 2020) ](https://arxiv.org/abs/2003.00217)   | - | - |
 | [ImmuNetNAS: An Immune-network approach for searching Convolutional Neural Network Architectures(Kefan and Pang. 2020) ](https://arxiv.org/abs/2002.12704)   | - | - |
 | [Neural Inheritance Relation Guided One-Shot Layer Assignment Search(Meng et al. 2020) ](https://arxiv.org/abs/2002.12580)   | - | - |
-| [Automatically Searching for U-Net Image Translator Architecture(Shu and Wang. 2020) ](https://arxiv.org/abs/2002.11581)   | - | - |
-| [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations(Zhao  et al. 2020) ](https://arxiv.org/abs/2002.11252)   | - | - |
-| [Memory-Efficient Models for Scene Text Recognition via Neural Architecture Search(Hong et al. 2020) ](http://openaccess.thecvf.com/content_WACVW_2020/papers/w3/Hong_Memory-Efficient_Models_for_Scene_Text_Recognition_via_Neural_Architecture_Search_WACVW_2020_paper.pdf)  <br>*accepted at WACV’20 workshop*  | - | - |
-| [Search for Winograd-Aware Quantized Networks(Fernandez-Marques et al. 2020) ](https://arxiv.org/abs/2002.10711)   | - | - |
-| [Semi-Supervised Neural Architecture Search(Luo et al. 2020) ](https://arxiv.org/abs/2002.10389)   | - | - |
-| [Neural Architecture Search for Compressed Sensing Magnetic Resonance Image Reconstruction(Yan et al. 2020) ](https://arxiv.org/abs/2002.09625)   | - | - |
-| [DSNAS: Direct Neural Architecture Search without Parameter Retraining(Hu et al. 2020) ](https://arxiv.org/abs/2002.09128)   | - | - |
+| [Automatically Searching for U-Net Image Translator Architecture(Shu and Wang. 2020) ](https://arxiv.org/abs/2002.11581)   | Image-to-image translation <br> Evolutionary | - |
+| [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations(Zhao  et al. 2020) ](https://arxiv.org/abs/2002.11252)   | Recommendation<br>DARTS | - |
+| [Memory-Efficient Models for Scene Text Recognition via Neural Architecture Search(Hong et al. 2020) ](https://openaccess.thecvf.com/content_WACVW_2020/html/w3/Hong_Memory-Efficient_Models_for_Scene_Text_Recognition_via_Neural_Architecture_Search_WACVW_2020_paper.html)  <br>*accepted at WACV’20 workshop*  | Scene Text Recognition <br>Image Recognition <br> ProxylessNAS | - |
+| [Search for Winograd-Aware Quantized Networks(Fernandez-Marques et al. 2020) ](https://arxiv.org/abs/2002.10711)   | Hardware Accelerator<br>Winograd<br>ProxylessNAS | - |
+| [Semi-Supervised Neural Architecture Search(Luo et al. 2020) ](https://arxiv.org/abs/2002.10389)   | SemiNAS<br>NAO | [Github](https://github.com/renqianluo/SemiNAS) |
+| [Neural Architecture Search for Compressed Sensing Magnetic Resonance Image Reconstruction(Yan et al. 2020) ](https://arxiv.org/abs/2002.09625)   | Medical <br> Magnetic Resonance Imaging <br> DARTS | [Github](https://github.com/yjump/NAS-for-CSMRI) |
+| [DSNAS: Direct Neural Architecture Search without Parameter Retraining(Hu et al. 2020) ](https://arxiv.org/abs/2002.09128)   | DSNAS | [Github](https://github.com/SNAS-Series/SNAS-Series) |
 | [Neural Architecture Search For Fault Diagnosis(Li et al. 2020) ](https://arxiv.org/abs/2002.07997)  <br>*accepted at ESREL’20*  | Fault Diagnosis <br> RL<br> Controller-based | - |
 | [Learning Architectures for Binary Networks(Kim et al. 2020) ](https://arxiv.org/abs/2002.06963)  <br>*accepted at ECCV’20*  | Binary Networks <br> DARTS | - |
 | [Efficient Evolutionary Architecture Search for CNN Optimization on GTSRB(Johner and Wassner. 2020) ](https://ieeexplore.ieee.org/abstract/document/8999305/)  <br>*accepted at ICMLA’19*  | Hardware Accelerator <br>Evolutionary | - |
@@ -561,7 +561,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search(Chu et al. 2019) ](https://arxiv.org/abs/1901.07261)  <br>*accepted at ICPR’20*  | - | - |
 | [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search(Fang et al. 2019) ](https://arxiv.org/abs/1901.05884)   | - | - |
 | [Bayesian Learning of Neural Network Architectures(Dikov et al. 2019) ](https://arxiv.org/abs/1901.04436)   | - | - |
-| [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation(Liu et al. 2019) ](https://arxiv.org/abs/1901.02985)  <br>*accepted at CVPR’19*  | - | - |
+| [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation(Liu et al. 2019) ](https://arxiv.org/abs/1901.02985)  <br>*accepted at CVPR’19*  | Image Segmentation | [Github](https://github.com/MenghaoGuo/AutoDeeplab) |
 | [The Art of Getting Deep Neural Networks in Shape(Mammadli et al. 2019) ](https://dl.acm.org/citation.cfm?id=3291053)  <br>*accepted at TACO Journal*  | - | - |
 | [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search(Chu et al. 2019) ](https://arxiv.org/abs/1901.01074)   | - | - |
 
@@ -572,7 +572,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 |  Title  |  Tags   |   Code   |
 |:--------|:--------:|:--------:|
 | [A particle swarm optimization-based flexible convolutional auto-encoder for image classification(Sun et al. 2018, published by IEEE Transactions on Neural Networks and Learning Systems) ](https://arxiv.org/abs/1712.05042)   | - | - |
-| [SNAS: Stochastic Neural Architecture Search(Xie et al. 2018) ](https://arxiv.org/abs/1812.09926)  <br>*accepted at ICLR’19*  | - | - |
+| [SNAS: Stochastic Neural Architecture Search(Xie et al. 2018) ](https://arxiv.org/abs/1812.09926)  <br>*accepted at ICLR’19*  | SNAS | [Github](https://github.com/SNAS-Series/SNAS-Series) |
 | [Graph Hypernetworks for Neural Architecture Search(Zhang et al. 2018) ](https://arxiv.org/abs/1810.05749)  <br>*accepted at Accepted at ICLR’19*  | - | - |
 | [Efficient Multi-Objective Neural Architecture Search via Lamarckian Evolution(Elsken et al. 2018) ](https://arxiv.org/abs/1804.09081)  <br>*accepted at ICLR’19*  | - | - |
 | [Macro Neural Architecture Search Revisited(Hu et al. 2018) ](http://metalearning.ml/2018/papers/metalearn2018_paper16.pdf)  <br>*accepted at Meta-Learn NeurIPS workshop’18*  | - | - |
