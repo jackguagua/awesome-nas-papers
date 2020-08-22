@@ -271,19 +271,18 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning(Alletto et al. 2020) ](http://eval.how/aaai-2020/REAIS19_p9.pdf)  <br>*accepted at Meta-Eval 2020 workshop*  | - | - |
 | [Classifying the classifier: dissecting the weight space of neural networks(Eilertsen et al. 2020) ](https://arxiv.org/pdf/2002.05688.pdf)   | - | - |
 | [Stabilizing Differentiable Architecture Search via Perturbation-based Regularization(Chen and Hsieh. 2020) ](https://arxiv.org/abs/2002.05283)   | - | - |
-| [Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator(Abdelfattah et al. 2020) ](https://arxiv.org/abs/2002.05022)  <br>*accepted at DAC’20*  | - | - |
-| [Variational Depth Search in ResNets(Antoran et al. 2020) ](https://arxiv.org/abs/2002.02797)   | - | - |
-| [Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator Designs Targeting Multiple Tasks(Yang et al. 2020) ](https://arxiv.org/abs/2002.04116)  <br>*accepted at DAC’20*  | - | - |
-| [FPNet: Customized Convolutional Neural Network for FPGA Platforms(Yang et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/8977837)  <br>*accepted at FPT’20*  | - | - |
+| [Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator(Abdelfattah et al. 2020) ](https://arxiv.org/abs/2002.05022)  <br>*accepted at DAC’20*  | Hardware Accelerator <br> RL<br> | - |
+| [Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator Designs Targeting Multiple Tasks(Yang et al. 2020) ](https://arxiv.org/abs/2002.04116)  <br>*accepted at DAC’20*  | Hardware Accelerator <br> ASIC <br> RL<br>Controller-based | - |
+| [FPNet: Customized Convolutional Neural Network for FPGA Platforms(Yang et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/8977837)  <br>*accepted at FPT’20*  | Hardware Accelerator <br> FPGA <br> RL<br> Controller-based | - |
 | [AutoFCL: Automatically Tuning Fully Connected Layers for Transfer Learning(Basha et al. 2020) ](https://arxiv.org/abs/2001.11951)   | - | - |
-| [NASS: Optimizing Secure Inference via Neural Architecture Search(Bian et al. 2020) ](https://arxiv.org/abs/2001.11854)  <br>*accepted at ECAI’20*  | - | - |
+| [NASS: Optimizing Secure Inference via Neural Architecture Search(Bian et al. 2020) ](https://arxiv.org/abs/2001.11854)  <br>*accepted at ECAI’20*  | Secure Inference <br>Privacy <br>Controller-based| - |
 | [Search for Better Students to Learn Distilled Knowledge(Gu et al. 2020) ](https://arxiv.org/abs/2001.11612)   | - | - |
-| [Bayesian Neural Architecture Search using A Training-Free Performance Metric(Camero et al. 2020) ](https://arxiv.org/abs/2001.10726)   | - | - |
-| [NAS-Bench-1Shot1: Benchmarking and Dissecting One-Short Neural Architecture Search(Zela et al. 2020) ](https://arxiv.org/abs/2001.10422)  <br>*accepted at ICLR’20*  | - | - |
-| [Convolution Neural Network Architecture Learning for Remote Sensing Scene Classification(Chen et al. 2010) ](https://arxiv.org/abs/2001.09614)   | - | - |
-| [Multi-objective Neural Architecture Search via Non-stationary Policy Gradient(Chen et al. 2020) ](https://arxiv.org/abs/2001.08437)   | - | - |
-| [Efficient Neural Architecture Search: A Broad Version(Ding et al. 2020) ](https://arxiv.org/abs/2001.06679)   | - | - |
-| [ENAS U-Net: Evolutionary Neural Architecture Search for Retinal Vessel(Fan et al. 2020) ](https://arxiv.org/abs/2001.06678)   | - | - |
+| [Bayesian Neural Architecture Search using A Training-Free Performance Metric(Camero et al. 2020) ](https://arxiv.org/abs/2001.10726)   | RNN <br>Bayesian Optimization | - |
+| [NAS-Bench-1Shot1: Benchmarking and Dissecting One-Shot Neural Architecture Search(Zela et al. 2020) ](https://arxiv.org/abs/2001.10422)  <br>*accepted at ICLR’20*  | Benchmark <br>One-shot | - |
+| [Convolution Neural Network Architecture Learning for Remote Sensing Scene Classification(Chen et al. 2010) ](https://arxiv.org/abs/2001.09614)   | Remote Sensing <br> RL | - |
+| [Multi-objective Neural Architecture Search via Non-stationary Policy Gradient(Chen et al. 2020) ](https://arxiv.org/abs/2001.08437)   | RL <br>Controller-based | - |
+| [Efficient Neural Architecture Search: A Broad Version(Ding et al. 2020) ](https://arxiv.org/abs/2001.06679)   | ENAS | - |
+| [ENAS U-Net: Evolutionary Neural Architecture Search for Retinal Vessel(Fan et al. 2020) ](https://arxiv.org/abs/2001.06678)   | Medical <br>Image Segmentation <br>Evolutionary | - |
 | [FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks(Iqbal et al. 2020) ](https://arxiv.org/abs/2001.06588)   | - | - |
 | [Up to two billion times acceleration of scientific simulations with deep neural architecture search(Kasim et al. 2020) ](https://arxiv.org/abs/2001.08055)   | Scientific Simulations <br> ProxylessNAS | - |
 | [Latency-Aware Differentiable Neural Architecture Search(Xu et al. 2020) ](https://arxiv.org/abs/2001.06392)   | DARTS | - |
