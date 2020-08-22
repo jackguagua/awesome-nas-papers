@@ -285,11 +285,11 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Efficient Neural Architecture Search: A Broad Version(Ding et al. 2020) ](https://arxiv.org/abs/2001.06679)   | - | - |
 | [ENAS U-Net: Evolutionary Neural Architecture Search for Retinal Vessel(Fan et al. 2020) ](https://arxiv.org/abs/2001.06678)   | - | - |
 | [FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks(Iqbal et al. 2020) ](https://arxiv.org/abs/2001.06588)   | - | - |
-| [Up to two billion times acceleration of scientific simulations with deep neural architecture search(Kasim et al. 2020) ](https://arxiv.org/abs/2001.08055)   | - | - |
-| [Latency-Aware Differentiable Neural Architecture Search(Xu et al. 2020) ](https://arxiv.org/abs/2001.06392)   | - | - |
-| [MixPath: A Unified Approach for One-shot Neural Architecture Search(Chu et al. 2020) ](https://arxiv.org/abs/2001.05887)   | - | - |
-| [Neural Architecture Search for Skin Lesion Classification(Kwasigroch et al. 2020) ](https://ieeexplore.ieee.org/document/8950333)  <br>*accepted at IEEE Access*  | - | - |
-| [AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search(Chen et al. 2020) ](https://arxiv.org/abs/2001.04246)   | - | - |
+| [Up to two billion times acceleration of scientific simulations with deep neural architecture search(Kasim et al. 2020) ](https://arxiv.org/abs/2001.08055)   | Scientific Simulations <br> ProxylessNAS | - |
+| [Latency-Aware Differentiable Neural Architecture Search(Xu et al. 2020) ](https://arxiv.org/abs/2001.06392)   | DARTS | - |
+| [MixPath: A Unified Approach for One-shot Neural Architecture Search(Chu et al. 2020) ](https://arxiv.org/abs/2001.05887)   | One-shot | - |
+| [Neural Architecture Search for Skin Lesion Classification(Kwasigroch et al. 2020) ](https://ieeexplore.ieee.org/document/8950333)  <br>*accepted at IEEE Access*  | Medical <br>Image Classification <br>Network Morphism | - |
+| [AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search(Chen et al. 2020) ](https://arxiv.org/abs/2001.04246)   | BERT <br>NLP <br>DARTS | - |
 | [Neural Architecture Search for Deep Image Prior(Ho et al. 2020) ](https://arxiv.org/abs/2001.04776)   | - | - |
 | [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) ](https://arxiv.org/abs/2001.02525)  <br>*accepted at ICLR’20*  | - | - |
 | [FTT-NAS: Discovering Fault-Tolerant Neural Architecture(Li et al. 2020) ](http://nicsefc.ee.tsinghua.edu.cn/media/publications/2020/ASPDAC20_293_6p4Ghq4.pdf)  <br>*accepted at ASP-DAC 2020*  | - | - |
