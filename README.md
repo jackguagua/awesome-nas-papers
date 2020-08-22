@@ -15,8 +15,8 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 
 |  Title  |  Tags   |   Code   |
 |:--------|:--------:|:--------:|
-| [Deep Convolution Features in Non-linear Embedding Space for Fundus Image Classification(Dondeti et al. 2020) ](http://www.iieta.org/journals/ria/paper/10.18280/ria.340308)  <br>*accepted at Revue d’Intelligence Artificielle*  | - | - |
-| [A Unified Approach to Anomaly Detection(Ball et al. 2020) ](https://www.researchgate.net/profile/Hennie_Kruger/publication/343006753_A_Unified_Approach_to_Anomaly_Detection/links/5f218f1592851cd302c5fb31/A-Unified-Approach-to-Anomaly-Detection.pdf)   | - | - |
+| [Deep Convolution Features in Non-linear Embedding Space for Fundus Image Classification(Dondeti et al. 2020) ](http://www.iieta.org/journals/ria/paper/10.18280/ria.340308)  <br>*accepted at Revue d’Intelligence Artificielle*  | Medical <br> Image Classification <br> NASNet | - |
+| [A Unified Approach to Anomaly Detection(Ball et al. 2020) ](https://www.researchgate.net/publication/343006753_A_Unified_Approach_to_Anomaly_Detection)  <br>*accepted at The Sixth International Conference on Machine Learning* | Anomaly Detection <br> Evoluationary | - |
 | [Evolving Multi-Resolution Pooling CNN for Monaural Singing Voice Separation(Yuan et al. 2020) ](https://arxiv.org/abs/2008.00816)   | - | - |
 | [Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap(Xie et al. 2020) ](https://arxiv.org/abs/2008.01475)   | - | - |
 | [Neural Architecture Search in Graph Neural Networks(Nunes and L.Pappa 2020) ](https://arxiv.org/abs/2008.00077)   | - | - |
