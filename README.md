@@ -25,13 +25,13 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Neural Architecture Search as Sparse Supernet(Wu et al. 2020) ](https://arxiv.org/abs/2007.16112)   | - | - |
 | [Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution(Tang et al. 2020) ](https://arxiv.org/abs/2007.16100)  <br>*accepted at ECCV 2020*  | 3D Deep Learning <br> Resource Constraints <br> Evolutionary | - |
 | [Growing Efficient Deep Networks by Structured Continuous Sparsification(Yuan et al. 2020) ](https://arxiv.org/abs/2007.15353)   | Network Pruning | - |
-| [Lidar Data Classification Based on Automatic Designed CNN(Xie and Chen 2020) ](https://ieeexplore.ieee.org/abstract/document/9139215)  <br>*accepted at IEEE Geoscience and Remote Sensing Letters*  | - | - |
-| [Fusion Mechanisms for Human Activity Recognition using Automated Machine Learning(Popescu et al. 2020) ](https://ieeexplore.ieee.org/document/9153764)  <br>*accepted at IEEE Access*  | - | - |
-| [Mixed-Precision Quantization for CNN-Based Remote Sensing Scene Classification(Wei et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9153122/authors#authors)  <br>*accepted at IEEE Geoscience and Remote Sensing Letters*  | - | - |
-| [Searching Collaborative Agents for Multi-plane Localization in 3D Ultrasound(Huang et al. 2020) ](https://arxiv.org/abs/2007.15273)  <br>*accepted at MICCAI 2020*  | - | - |
-| [TF-NAS: Rethinking Three Search Freedoms of Latency-Constrained Differentiable Neural Architecture Search(Hu et al. 2020) ](https://alfredxiangwu.github.io/papers/hu2020eccv.pdf)  <br>*accepted at ECCV 2020*  | - | - |
-| [Efficient Oct Image Segmentation Using Neural Architecture Search(Gheshlaghi et al. 2020) ](https://arxiv.org/abs/2007.14790)   | - | - |
-| [SOTERIA: In Search of Efficient Neural Networks for Private Inference(Aggarwal et al. 2020) ](https://arxiv.org/abs/2007.12934)   | - | - |
+| [Lidar Data Classification Based on Automatic Designed CNN(Xie and Chen 2020) ](https://ieeexplore.ieee.org/abstract/document/9139215)  <br>*accepted at IEEE Geoscience and Remote Sensing Letters*  | 3D Deep Learning <br> Gradient-based | - |
+| [Fusion Mechanisms for Human Activity Recognition using Automated Machine Learning(Popescu et al. 2020) ](https://ieeexplore.ieee.org/document/9153764)  <br>*accepted at IEEE Access*  | Human Activity Recognition <br> 3D Deep Learning <br> CV <br> RL  | - |
+| [Mixed-Precision Quantization for CNN-Based Remote Sensing Scene Classification(Wei et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9153122)  <br>*accepted at IEEE Geoscience and Remote Sensing Letters*  | Remote Sensing <br> Model Compress <br> Mixed-Precision Quantization | - |
+| [Searching Collaborative Agents for Multi-plane Localization in 3D Ultrasound(Huang et al. 2020) ](https://arxiv.org/abs/2007.15273)  <br>*accepted at MICCAI 2020*  | Medical <br> GDAS <br> RL | - |
+| [TF-NAS: Rethinking Three Search Freedoms of Latency-Constrained Differentiable Neural Architecture Search(Hu et al. 2020) ](https://arxiv.org/abs/2008.05314)  <br>*accepted at ECCV 2020*  | TF-NAS | [Github](https://github.com/AberHu/TF-NAS) |
+| [Efficient Oct Image Segmentation Using Neural Architecture Search(Gheshlaghi et al. 2020) ](https://arxiv.org/abs/2007.14790)   | Medical <br>Image Segmentation <br> ProxylessNAS | - |
+| [SOTERIA: In Search of Efficient Neural Networks for Private Inference(Aggarwal et al. 2020) ](https://arxiv.org/abs/2007.12934)   | Private Inference <br> DARTS | - |
 | [What and Where: Learn to Plug Adapters via NAS for Multi-Domain Learning(Zhao et al. 2020) ](https://arxiv.org/abs/2007.12415)   | - | - |
 | [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending(Xu et al. 2020) ](https://arxiv.org/abs/2007.12147)  <br>*accepted at ECCV 2020*  | - | - |
 | [Representation Sharing for Fast Object Detector Search and Beyond(Zhou et al .2020) ](https://arxiv.org/abs/2007.12075)  <br>*accepted at ECCV 2020*  | - | - |
