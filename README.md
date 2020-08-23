@@ -16,15 +16,15 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 |  Title  |  Tags   |   Code   |
 |:--------|:--------:|:--------:|
 | [Deep Convolution Features in Non-linear Embedding Space for Fundus Image Classification(Dondeti et al. 2020) ](http://www.iieta.org/journals/ria/paper/10.18280/ria.340308)  <br>*accepted at Revue d’Intelligence Artificielle*  | Medical <br> Image Classification <br> NASNet | - |
-| [A Unified Approach to Anomaly Detection(Ball et al. 2020) ](https://www.researchgate.net/publication/343006753_A_Unified_Approach_to_Anomaly_Detection)  <br>*accepted at The Sixth International Conference on Machine Learning* | Anomaly Detection <br> Evoluationary | - |
-| [Evolving Multi-Resolution Pooling CNN for Monaural Singing Voice Separation(Yuan et al. 2020) ](https://arxiv.org/abs/2008.00816)   | - | - |
-| [Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap(Xie et al. 2020) ](https://arxiv.org/abs/2008.01475)   | - | - |
-| [Neural Architecture Search in Graph Neural Networks(Nunes and L.Pappa 2020) ](https://arxiv.org/abs/2008.00077)   | - | - |
-| [Anti-Bandit Neural Architecture Search for Model Defense(Chen et al. 2020) ](https://arxiv.org/abs/2008.00698)  <br>*accepted at ECCV 2020*  | - | - |
-| [HMCNAS: Neural Architecture Search Using Hidden Markov Chains And Bayesian Optimization(Lopes and Alexandre 2020) ](https://arxiv.org/abs/2007.16149)   | - | - |
+| [A Unified Approach to Anomaly Detection(Ball et al. 2020) ](https://www.researchgate.net/publication/343006753_A_Unified_Approach_to_Anomaly_Detection)  <br>*accepted at The Sixth International Conference on Machine Learning* | Anomaly Detection <br> AutoEncoder <br> Evoluationary | - |
+| [Evolving Multi-Resolution Pooling CNN for Monaural Singing Voice Separation(Yuan et al. 2020) ](https://arxiv.org/abs/2008.00816)   | Monaural Singing Voice Separation <br> Evolutionary  | - |
+| [Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap(Xie et al. 2020) ](https://arxiv.org/abs/2008.01475)   | Survey <br> CV  | - |
+| [Neural Architecture Search in Graph Neural Networks(Nunes and L.Pappa 2020) ](https://arxiv.org/abs/2008.00077)   | Graph Neural Networks <br> Evolutionary <br> RL| - |
+| [Anti-Bandit Neural Architecture Search for Model Defense(Chen et al. 2020) ](https://arxiv.org/abs/2008.00698)  <br>*accepted at ECCV 2020*  | Adversarial Defense <br> ABanditNAS | [Github](https://github.com/bczhangbczhang/ABanditNAS) |
+| [HMCNAS: Neural Architecture Search Using Hidden Markov Chains And Bayesian Optimization(Lopes and Alexandre 2020) ](https://arxiv.org/abs/2007.16149)   | HMCNAS <br> Evolutionary | - |
 | [Neural Architecture Search as Sparse Supernet(Wu et al. 2020) ](https://arxiv.org/abs/2007.16112)   | - | - |
-| [Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution(Tang et al. 2020) ](https://arxiv.org/abs/2007.16100)  <br>*accepted at ECCV 2020*  | - | - |
-| [Growing Efficient Deep Networks by Structured Continuous Sparsification(Yuan et al. 2020) ](https://arxiv.org/abs/2007.15353)   | - | - |
+| [Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution(Tang et al. 2020) ](https://arxiv.org/abs/2007.16100)  <br>*accepted at ECCV 2020*  | 3D Deep Learning <br> Resource Constraints <br> Evolutionary | - |
+| [Growing Efficient Deep Networks by Structured Continuous Sparsification(Yuan et al. 2020) ](https://arxiv.org/abs/2007.15353)   | Network Pruning | - |
 | [Lidar Data Classification Based on Automatic Designed CNN(Xie and Chen 2020) ](https://ieeexplore.ieee.org/abstract/document/9139215)  <br>*accepted at IEEE Geoscience and Remote Sensing Letters*  | - | - |
 | [Fusion Mechanisms for Human Activity Recognition using Automated Machine Learning(Popescu et al. 2020) ](https://ieeexplore.ieee.org/document/9153764)  <br>*accepted at IEEE Access*  | - | - |
 | [Mixed-Precision Quantization for CNN-Based Remote Sensing Scene Classification(Wei et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9153122/authors#authors)  <br>*accepted at IEEE Geoscience and Remote Sensing Letters*  | - | - |
