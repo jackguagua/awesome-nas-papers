@@ -33,7 +33,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Efficient Oct Image Segmentation Using Neural Architecture Search(Gheshlaghi et al. 2020) ](https://arxiv.org/abs/2007.14790)   | Medical <br>Image Segmentation <br> ProxylessNAS | - |
 | [SOTERIA: In Search of Efficient Neural Networks for Private Inference(Aggarwal et al. 2020) ](https://arxiv.org/abs/2007.12934)   | Private Inference <br> DARTS | - |
 | [What and Where: Learn to Plug Adapters via NAS for Multi-Domain Learning(Zhao et al. 2020) ](https://arxiv.org/abs/2007.12415)   | Multi-Domain Learning | - |
-| [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending(Xu et al. 2020) ](https://arxiv.org/abs/2007.12147)  <br>*accepted at ECCV 2020*  | Autonomous Driving <br> Lane Detection <br> Multi-objective Search <br> Evolutionary | [Dataset](t http://www.noahlab.com.hk/opensource/vega/#curvelanes) |
+| [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending(Xu et al. 2020) ](https://arxiv.org/abs/2007.12147)  <br>*accepted at ECCV 2020*  | Autonomous Driving <br> Lane Detection <br> Multi-objective Search <br> Evolutionary | [Dataset](http://www.noahlab.com.hk/opensource/vega/#curvelanes) |
 | [Representation Sharing for Fast Object Detector Search and Beyond(Zhou et al .2020) ](https://arxiv.org/abs/2007.12075)  <br>*accepted at ECCV 2020*  | Object Detection <br>  | - |
 | [AttentionNAS: Spatiotemporal Attention Cell Search for Video Classification(Wang et al. 2020) ](https://arxiv.org/abs/2007.12034)  <br>*accepted at ECCV 2020*  | Video Classification <br> DARTS | - |
 | [MCUNet: Tiny Deep Learning on IoT Devices(Lin et al. 2020) ](https://arxiv.org/abs/2007.10319)   | IoT <br> | - |
