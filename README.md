@@ -23,7 +23,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Anti-Bandit Neural Architecture Search for Model Defense(Chen et al. 2020) ](https://arxiv.org/abs/2008.00698)  <br>*accepted at ECCV 2020*  | Adversarial Defense <br> ABanditNAS | [Github](https://github.com/bczhangbczhang/ABanditNAS) |
 | [HMCNAS: Neural Architecture Search Using Hidden Markov Chains And Bayesian Optimization(Lopes and Alexandre 2020) ](https://arxiv.org/abs/2007.16149)   | HMCNAS <br> Evolutionary | - |
 | [Neural Architecture Search as Sparse Supernet(Wu et al. 2020) ](https://arxiv.org/abs/2007.16112)   | - | - |
-| [Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution(Tang et al. 2020) ](https://arxiv.org/abs/2007.16100)  <br>*accepted at ECCV 2020*  | 3D Deep Learning <br> Resource Constraints <br> Evolutionary | - |
+| [Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution(Tang et al. 2020) ](https://arxiv.org/abs/2007.16100)  <br>*accepted at ECCV 2020*  | 3D Deep Learning <br> Autonomous Driving <br> Resource Constraints <br> Evolutionary | - |
 | [Growing Efficient Deep Networks by Structured Continuous Sparsification(Yuan et al. 2020) ](https://arxiv.org/abs/2007.15353)   | Network Pruning | - |
 | [Lidar Data Classification Based on Automatic Designed CNN(Xie and Chen 2020) ](https://ieeexplore.ieee.org/abstract/document/9139215)  <br>*accepted at IEEE Geoscience and Remote Sensing Letters*  | 3D Deep Learning <br> Gradient-based | - |
 | [Fusion Mechanisms for Human Activity Recognition using Automated Machine Learning(Popescu et al. 2020) ](https://ieeexplore.ieee.org/document/9153764)  <br>*accepted at IEEE Access*  | Human Activity Recognition <br> 3D Deep Learning <br> CV <br> RL  | - |
@@ -31,15 +31,14 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Searching Collaborative Agents for Multi-plane Localization in 3D Ultrasound(Huang et al. 2020) ](https://arxiv.org/abs/2007.15273)  <br>*accepted at MICCAI 2020*  | Medical <br> GDAS <br> RL | - |
 | [TF-NAS: Rethinking Three Search Freedoms of Latency-Constrained Differentiable Neural Architecture Search(Hu et al. 2020) ](https://arxiv.org/abs/2008.05314)  <br>*accepted at ECCV 2020*  | TF-NAS | [Github](https://github.com/AberHu/TF-NAS) |
 | [Efficient Oct Image Segmentation Using Neural Architecture Search(Gheshlaghi et al. 2020) ](https://arxiv.org/abs/2007.14790)   | Medical <br>Image Segmentation <br> ProxylessNAS | - |
-| [SOTERIA: In Search of Efficient Neural Networks for Private Inference(Aggarwal et al. 2020) ](https://arxiv.org/abs/2007.12934)   | Private Inference <br> DARTS | - |
-| [What and Where: Learn to Plug Adapters via NAS for Multi-Domain Learning(Zhao et al. 2020) ](https://arxiv.org/abs/2007.12415)   | - | - |
-| [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending(Xu et al. 2020) ](https://arxiv.org/abs/2007.12147)  <br>*accepted at ECCV 2020*  | - | - |
-| [Representation Sharing for Fast Object Detector Search and Beyond(Zhou et al .2020) ](https://arxiv.org/abs/2007.12075)  <br>*accepted at ECCV 2020*  | - | - |
-| [AttentionNAS: Spatiotemporal Attention Cell Search for Video Classification(Wang et al. 2020) ](https://arxiv.org/abs/2007.12034)  <br>*accepted at ECCV 2020*  | - | - |
-| [Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap(Xie et al. 2020) ](https://arxiv.org/abs/2008.01475)   | - | - |
-| [MCUNet: Tiny Deep Learning on IoT Devices(Lin et al. 2020) ](https://arxiv.org/abs/2007.10319)   | - | - |
-| [Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(Yu et al. 2020) ](https://arxiv.org/abs/2007.10026)  <br>*accepted at ECCV 2020*  | - | - |
-| [NSGANetV2: Evolutionary Multi-Objective Surrogate-Assisted Neural Architecture Search(Lu et al. 2020) ](https://arxiv.org/abs/2007.10396)  <br>*accepted at ECCV 2020*  | - | - |
+| [SOTERIA: In Search of Efficient Neural Networks for Private Inference(Aggarwal et al. 2020) ](https://arxiv.org/abs/2007.12934)   | Private Inference <br> DARTS | - |
+| [What and Where: Learn to Plug Adapters via NAS for Multi-Domain Learning(Zhao et al. 2020) ](https://arxiv.org/abs/2007.12415)   | Multi-Domain Learning | - |
+| [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending(Xu et al. 2020) ](https://arxiv.org/abs/2007.12147)  <br>*accepted at ECCV 2020*  | Autonomous Driving <br> Lane Detection <br> Multi-objective Search <br> Evolutionary | [Dataset](t http://www.noahlab.com.hk/opensource/vega/#curvelanes) |
+| [Representation Sharing for Fast Object Detector Search and Beyond(Zhou et al .2020) ](https://arxiv.org/abs/2007.12075)  <br>*accepted at ECCV 2020*  | Object Detection <br>  | - |
+| [AttentionNAS: Spatiotemporal Attention Cell Search for Video Classification(Wang et al. 2020) ](https://arxiv.org/abs/2007.12034)  <br>*accepted at ECCV 2020*  | Video Classification <br> DARTS | - |
+| [MCUNet: Tiny Deep Learning on IoT Devices(Lin et al. 2020) ](https://arxiv.org/abs/2007.10319)   | IoT <br> | - |
+| [Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(Yu et al. 2020) ](https://arxiv.org/abs/2007.10026)  <br>*accepted at ECCV 2020*  | Model Compression <br> Mixed Precision Quantization <br> DARTS | - |
+| [NSGANetV2: Evolutionary Multi-Objective Surrogate-Assisted Neural Architecture Search(Lu et al. 2020) ](https://arxiv.org/abs/2007.10396)  <br>*accepted at ECCV 2020*  | Multi-objective Search <br> | [Github](https://github.com/mikelzc1990/nsganetv2) |
 | [CATCH: Context-based Meta Reinforcement Learning for Transferrable Architecture Search(Chen et al. 2020) ](https://arxiv.org/abs/2007.09380)  <br>*accepted at ECCV 2020*  | - | - |
 | [Standing on the Shoulders of Giants: Hardware and Neural Architecture Co-Search with Hot Start(Jiang et al. 2020) ](https://arxiv.org/abs/2007.09087)  <br>*accepted at IEEE Transactions On Computer-Aided Design of Integrated Circuits and System*  | - | - |
 | [Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search(Tian et al. 2020) ](https://arxiv.org/abs/2007.09180)  <br>*accepted at ECCV 2020*  | - | - |
@@ -60,9 +59,9 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [MS-NAS: Multi-Scale Neural Architecture Search for Medical Image Segmentation(Yan et al. 2020) ](https://arxiv.org/abs/2007.06151)   | - | - |
 | [VINNAS: Variational Inference-based Neural Network Architecture Search(Ferianc et al. 2020) ](https://arxiv.org/abs/2007.06103)   | - | - |
 | [Multi-Modality Information Fusion for Radiomics-based Neural Architecture Search(Peng et al. 2020) ](https://arxiv.org/abs/2007.06002)   | - | - |
-| [Graph Neural Architecture Search(Gao et al. 2020) ](https://www.researchgate.net/profile/Chuan_Zhou5/publication/342789484_Graph_Neural_Architecture_Search/links/5f0be495299bf18816197d15/Graph-Neural-Architecture-Search.pdf)  <br>*accepted at IJCAI 2020*  | - | - |
-| [Ensembles of Networks Produced from Neural Architecture Search(Herron et al. 2020) ](https://keuperj.github.io/MLHPCS/paper/NASEnsemblesFinal.pdf)   | - | - |
-| [Neural Architecture Search with GBDT(Luo et al. 2020) ](https://arxiv.org/abs/2007.04785)   | - | - |
+| [Graph Neural Architecture Search(Gao et al. 2020) ](https://www.researchgate.net/profile/Chuan_Zhou5/publication/342789484_Graph_Neural_Architecture_Search/links/5f0be495299bf18816197d15/Graph-Neural-Architecture-Search.pdf)  <br>*accepted at IJCAI 2020*  | GNN <br> RL | [Github](https://github.com/GraphNAS/GraphNAS) |
+| [Ensembles of Networks Produced from Neural Architecture Search(Herron et al. 2020) ](https://keuperj.github.io/MLHPCS/paper/NASEnsemblesFinal.pdf)   | Neural Network Ensembles | - |
+| [Neural Architecture Search with GBDT(Luo et al. 2020) ](https://arxiv.org/abs/2007.04785)   | Predictor-based | [Github](https://github.com/renqianluo/GBDT-NAS) |
 | [A Study on Encodings for Neural Architecture Search(White et al. 2020) ](https://arxiv.org/pdf/2007.04965.pdf)   | - | - |
 | [NASGEM: Neural Architecture Search via Graph Embedding Method(Cheng et al. 2020) ](https://arxiv.org/abs/2007.04452)   | - | - |
 | [Neuro-evolution using Game-Driven Cultural Algorithms(Waris and Reynolds) ](https://dl.acm.org/doi/abs/10.1145/3377929.3398093)  <br>*accepted at GECCO 2020*  | - | - |
@@ -371,8 +370,8 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [NAT: Neural Architecture Transformer for Accurate and Compact Architectures(Guo et al. 2019) ](https://arxiv.org/abs/1910.14488)   | - | - |
 | [Deep neural network architecture search using network morphism(Kwasigroch et al. 2019) ](https://ieeexplore.ieee.org/abstract/document/8864624)  <br>*accepted at accepted MMAR’19*  | - | - |
 | [Person Re-identification with Neural Architecture Search(Zhang et al. 2019) ](https://link.springer.com/chapter/10.1007/978-3-030-31654-9_46)  <br>*accepted at accepted PRCV’19*  | - | - |
-| [Resource Constrained Neural Network Architecture Search: Will a Submodularity Assumption Help?(Xiong et al. 2019) ](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_Resource_Constrained_Neural_Network_Architecture_Search_Will_a_Submodularity_Assumption_ICCV_2019_paper.pdf)  <br>*accepted at ICCV’19*  | - | - |
-| [Auto-FPN: Automatic Network Architecture Adaptation for Object Detection Beyond Classification(Xu et al. 2019) ](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Auto-FPN_Automatic_Network_Architecture_Adaptation_for_Object_Detection_Beyond_Classification_ICCV_2019_paper.pdf)  <br>*accepted at ICCV’19*  | - | - |
+| [Resource Constrained Neural Network Architecture Search: Will a Submodularity Assumption Help?(Xiong et al. 2019) ](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_Resource_Constrained_Neural_Network_Architecture_Search_Will_a_Submodularity_Assumption_ICCV_2019_paper.html)  <br>*accepted at ICCV’19*  | - | - |
+| [Auto-FPN: Automatic Network Architecture Adaptation for Object Detection Beyond Classification(Xu et al. 2019) ](https://openaccess.thecvf.com/content_ICCV_2019/html/Xu_Auto-FPN_Automatic_Network_Architecture_Adaptation_for_Object_Detection_Beyond_Classification_ICCV_2019_paper.html)  <br>*accepted at ICCV’19*  | Object Detection | - |
 | [BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search(White et al. 2019) ](https://arxiv.org/abs/1910.11858)   | - | - |
 | [Stabilizing DARTS with Amended Gradient Estimation on Architectural Parameters(Bi et al. 2019) ](https://arxiv.org/abs/1910.11831)   | - | - |
 | [An End-to-End HW/SW Co-Design Methodology to Design Efficient Deep Neural Network Systems using Virtual Models(Klaiber et al. 2019) ](https://arxiv.org/abs/1910.11632)   | - | - |
