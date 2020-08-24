@@ -56,7 +56,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Architecture Search of Dynamic Cells for Semantic Video Segmentation(Nekrasov et al. 2020) ](https://openaccess.thecvf.com/content_WACV_2020/papers/Nekrasov_Architecture_Search_of_Dynamic_Cells_for_Semantic_Video_Segmentation_WACV_2020_paper.pdf)  <br>*accepted at WACV 2020*  | - | - |
 | [Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search(Guo et al. 2020) ](https://arxiv.org/abs/2007.07197)   | - | - |
 | [Towards Automated Neural Interaction Discovery for Click-Through Rate Prediction(Song et al. 2020) ](https://arxiv.org/abs/2007.06434)  <br>*accepted at KDD2020*  | - | - |
-| [MS-NAS: Multi-Scale Neural Architecture Search for Medical Image Segmentation(Yan et al. 2020) ](https://arxiv.org/abs/2007.06151)   | - | - |
+| [MS-NAS: Multi-Scale Neural Architecture Search for Medical Image Segmentation(Yan et al. 2020) ](https://arxiv.org/abs/2007.06151)   | Medical Image Segmentation | - |
 | [VINNAS: Variational Inference-based Neural Network Architecture Search(Ferianc et al. 2020) ](https://arxiv.org/abs/2007.06103)   | - | - |
 | [Multi-Modality Information Fusion for Radiomics-based Neural Architecture Search(Peng et al. 2020) ](https://arxiv.org/abs/2007.06002)   | - | - |
 | [Graph Neural Architecture Search(Gao et al. 2020) ](https://www.researchgate.net/profile/Chuan_Zhou5/publication/342789484_Graph_Neural_Architecture_Search/links/5f0be495299bf18816197d15/Graph-Neural-Architecture-Search.pdf)  <br>*accepted at IJCAI 2020*  | GNN <br> RL | [Github](https://github.com/GraphNAS/GraphNAS) |
@@ -156,7 +156,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [FBNetV3: Joint Architecture-Recipe Search using Neural Acquisition Function(Dai et al. 2020) ](https://arxiv.org/abs/2006.02049)   | - | - |
 | [Neural Architecture Search With Reinforce And Masked Attention Autoregressive Density Estimators(Krishna et al. 2020) ](https://arxiv.org/abs/2006.00939)   | - | - |
 | [Automation of Deep Learning – Theory and Practice(Wistuba et al. 2020) ](https://dl.acm.org/doi/abs/10.1145/3372278.3390739)  <br>*accepted at ICMR 202*  | - | - |
-| [AdaEn-Net: An Ensemble of Adaptive 2D-3D Fully Convolutional Networks for Medical Image Segmentation(Baldeon Calisto and Lai-Yuen. 2020) ](https://www.sciencedirect.com/science/article/pii/S0893608020300848)  <br>*accepted at Neural Networks*  | - | - |
+| [AdaEn-Net: An Ensemble of Adaptive 2D-3D Fully Convolutional Networks for Medical Image Segmentation(Baldeon Calisto and Lai-Yuen. 2020) ](https://www.sciencedirect.com/science/article/pii/S0893608020300848)  <br>*accepted at Neural Networks*  | Medical <br> Image Segmentation | - |
 | [DC-NAS: Divide-and-Conquer Neural Architecture Search(Wang et al. 2020) ](https://arxiv.org/abs/2005.14456)   | - | - |
 | [HourNAS: Extremely Fast Neural Architecture Search Through an Hourglass Lens(Yang et al. 2020) ](https://arxiv.org/abs/2005.14446)   | - | - |
 | [Designing Resource-Constrained Neural Networks Using Neural Architecture Search Targeting Embedded Devices(Cassimon et al. 2020) ](https://www.sciencedirect.com/science/article/pii/S2542660520300676)  <br>*accepted at IEEE Internet of Things*  | - | - |
@@ -168,7 +168,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Synthetic Petri Dish: A Novel Surrogate Model for Rapid Architecture Search(Rawal et al. 2020) ](https://arxiv.org/abs/2005.13092)   | - | - |
 | [Designing Convolutional Neural Network Architectures Using Cartesian Genetic Programming(Suganuma et al. 2020) ](https://link.springer.com/chapter/10.1007/978-981-15-3685-4_7)  <br>*accepted at accepted in book on “Deep Neural Evolution”*  | - | - |
 | [An Introduction to Neural Architecture Search for Convolutional Networks(Kyriakides and Margaritis, 2020) ](https://arxiv.org/abs/2005.11074)   | - | - |
-| [AutoSegNet: An Automated Neural Network for Image Segmentation(Xu et al. 2020) ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9095283)  <br>*accepted at IEEE Access*  | - | - |
+| [AutoSegNet: An Automated Neural Network for Image Segmentation(Xu et al. 2020) ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9095283)  <br>*accepted at IEEE Access*  | Medical <br> Image Segmentation | - |
 | [DMS: Differentiable Dimension Search for Binary Neural Networks(Li et al. 2020) ](https://xhplus.github.io/publication/conference-paper/iclr2020/dms/DMS.pdf)  <br>*accepted at 1st Workshop on Neural Architecture Search at ICLR 2020*  | - | - |
 | [Evolving Deep Neural Networks for X-ray Based Detection of Dangerous Objects(Tsukada et al. 2020) ](https://link.springer.com/chapter/10.1007/978-981-15-3685-4_12)  <br>*accepted at accepted in book on “Deep Neural Evolution”*  | - | - |
 | [Powering One-shot Topological NAS with Stabilized Share-parameter Proxy(Guo et al. 2020) ](https://arxiv.org/abs/2005.10511)   | - | - |
@@ -229,15 +229,15 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [NPENAS:Neural Predictor Guided Evolution for Neural Architecture Search(Wei et al. 2020) ](https://arxiv.org/abs/2003.12857)   | - | - |
 | [DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search(Dai et al. 2020) ](https://arxiv.org/abs/2003.12563)   | - | - |
 | [MiLeNAS: Efficient Neural Architecture Search via Mixed-Level Reformulation(He et al. 2020) ](https://arxiv.org/abs/2003.12238)  <br>*accepted at CVPR’20*  | - | - |
-| [Are Labels Necessary for Neural Architecture Search?(Liu et al. 2020) ](https://arxiv.org/abs/2003.12056)   | - | - |
-| [DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation(Zhang et al. 2020) ](https://arxiv.org/abs/2003.11883)   | - | - |
-| [Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection(Guo et al. 2020) ](https://arxiv.org/abs/2003.11818)  <br>*accepted at CVPR 2020*  | - | - |
-| [Sampled Training and Node Inheritance for Fast Evolutionary Neural Architecture Search(Zhang et al. 2020) ](https://arxiv.org/abs/2003.11613)   | - | - |
-| [GreedyNAS: Towards Fast One-Shot NAS with Greedy Supernet(You et al. 2020) ](https://arxiv.org/abs/2003.11236)  <br>*accepted at CVPR’2020*  | - | - |
+| [Are Labels Necessary for Neural Architecture Search?(Liu et al. 2020) ](https://arxiv.org/abs/2003.12056)   | Unsupervised <br> DARTS | [Github](https://github.com/facebookresearch/unnas) |
+| [DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation(Zhang et al. 2020) ](https://arxiv.org/abs/2003.11883)   | Image Segmentation | - |
+| [Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection(Guo et al. 2020) ](https://arxiv.org/abs/2003.11818)  <br>*accepted at CVPR 2020*  | Object Detection <br> DARTS | [Github](https://github.com/ggjy/HitDet.pytorch) |
+| [Sampled Training and Node Inheritance for Fast Evolutionary Neural Architecture Search(Zhang et al. 2020) ](https://arxiv.org/abs/2003.11613)   | Evolutionary | - |
+| [GreedyNAS: Towards Fast One-Shot NAS with Greedy Supernet(You et al. 2020) ](https://arxiv.org/abs/2003.11236)  <br>*accepted at CVPR’2020*  | GreedyNAS | - |
 | [BigNAS: Scaling Up Neural Architecture Search with Big Single-Stage Models(Yu et al. 2020) ](https://arxiv.org/abs/2003.11142)   | - | - |
 | [Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting(Wu et al. 2020) ](https://arxiv.org/abs/2003.10392)   | - | - |
 | [BS-NAS: Broadening-and-Shrinking One-Shot NAS with Searchable Numbers of Channels(Shen et al. 2020) ](https://arxiv.org/abs/2003.09821)   | - | - |
-| [Probabilistic Dual Network Architecture Search on Graphs(Zhao et al. 2020) ](https://arxiv.org/abs/2003.09676)   | - | - |
+| [Probabilistic Dual Network Architecture Search on Graphs(Zhao et al. 2020) ](https://arxiv.org/abs/2003.09676)   | GNN <br> Gradient-based | - |
 | [GAN Compression: Efficient Architectures for Interactive Conditional GAN(Li et al. 2020) ](https://arxiv.org/abs/2003.08936)   | GAN <br> Model Compression <br> One-shot | [Github](https://github.com/mit-han-lab/gan-compression) |
 | [ElixirNet: Relation-aware Network Architecture Adaptation for Medical Lesion Detection(Jiang et al. 2020) ](https://arxiv.org/abs/2003.08770)   | Medical <br> Lesion Detection | - |
 | [Lifelong Learning with Searchable Extension Units(Wang et al. 2020) ](https://arxiv.org/abs/2003.08559)   | Lifelong Learning | - |
@@ -288,7 +288,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Neural Architecture Search for Skin Lesion Classification(Kwasigroch et al. 2020) ](https://ieeexplore.ieee.org/document/8950333)  <br>*accepted at IEEE Access*  | Medical <br>Image Classification <br>Network Morphism | - |
 | [AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search(Chen et al. 2020) ](https://arxiv.org/abs/2001.04246)   | BERT <br> Model Compression <br> NLP <br>DARTS | - |
 | [Neural Architecture Search for Deep Image Prior(Ho et al. 2020) ](https://arxiv.org/abs/2001.04776)   | Image Denoising <br> Image Inpainting <br> Image Super-resolution <br> Evolutionary | - |
-| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) ](https://arxiv.org/abs/2001.02525)  <br>*accepted at ICLR’20*  | Object Detection <br> Semantic Segmentation <br> DARTS | [Github](https://github.com/JaminFong/FNA) |
+| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) ](https://arxiv.org/abs/2001.02525)  <br>*accepted at ICLR’20*  | Object Detection <br> Image Segmentation <br> DARTS | [Github](https://github.com/JaminFong/FNA) |
 | [FTT-NAS: Discovering Fault-Tolerant Neural Architecture(Li et al. 2020) ](http://nicsefc.ee.tsinghua.edu.cn/media/publications/2020/ASPDAC20_293_6p4Ghq4.pdf)  <br>*accepted at ASP-DAC 2020*  | Multi-objective Search <br> RL | - |
 | [Deeper Insights into Weight Sharing in Neural Architecture Search(Zhang et al. 2020) ](https://arxiv.org/abs/2001.01431)   | Survey <br> Weight Sharing <br> One-shot | - |
 | [EcoNAS: Finding Proxies for Economical Neural Architecture Search(Zhou et al. 2020) ](https://arxiv.org/abs/2001.01233)  <br>*accepted at CVPR’20*  | Evolutionary | - |
@@ -313,7 +313,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Progressive DARTS: Bridging the Optimization Gap for NAS in the Wild(Chen et al. 2019) ](https://arxiv.org/abs/1912.10952)   | - | - |
 | [TextNAS: A Neural Architecture Search Space tailored for Text Representation(Wang et al. 2019) ](https://arxiv.org/abs/1912.10729)   | - | - |
 | [AtomNAS: Fine-Grined End-To-End Neural Architecture Search(Mei et al. 2019) ](https://arxiv.org/abs/1912.09640)  <br>*accepted at ICLR’20*  | - | - |
-| [C2FNAS: Coarse-to-Fine Neural Architecture Search for 3D Medical Image Segmentation(Yu et al. 2019) ](https://arxiv.org/abs/1912.09628)   | - | - |
+| [C2FNAS: Coarse-to-Fine Neural Architecture Search for 3D Medical Image Segmentation(Yu et al. 2019) ](https://arxiv.org/abs/1912.09628)   | Medical <br> Image Segmentation | - |
 | [A Reinforcement Neural Architecture Search Method for Rolling Bearing Fault Diagnosis(Wang et al. 2019) ](https://www.sciencedirect.com/science/article/pii/S0263224119312849)  <br>*accepted at Measurement*  | - | - |
 | [Neural Architecture Search for Optimizing Deep Belief Network Models of fMRI Data(Quiang et al. 2019) ](https://link.springer.com/chapter/10.1007/978-3-030-37969-8_4)  <br>*accepted at MMMI’19*  | - | - |
 | [QoS-aware Neural Architecture Search(Cheng et al. 2019) ](http://mlforsystems.org/assets/papers/neurips2019/qosnas_cheng_2019.pdf)  <br>*accepted at NeurIPS’19*  | - | - |
@@ -384,9 +384,9 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [NASIB: Neural Architecture Search withIn Budget(Singh et al. 2019) ](https://arxiv.org/abs/1910.08665)   | - | - |
 | [State of Compact Architecture Search For Deep Neural Networks(Shafiee et al. 2019) ](https://arxiv.org/abs/1910.06466)   | - | - |
 | [One-Shot Neural Architecture Search via Self-Evaluated Template Network(Dong and Yang. 2019) ](https://arxiv.org/abs/1910.05733)   | - | - |
-| [Scalable Neural Architecture Search for 3D Medical Image Segmentation(Kim et al. 2019) ](https://arxiv.org/abs/1906.05956)  <br>*accepted at MICCAI’19*  | - | - |
-| [Neural Architecture Search for Adversarial Medical Image Segmentation(Dong et al. 2019) ](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_92)  <br>*accepted at MICCAI’19*  | - | - |
-| [Searching Learning Strategy with Reinforcement Learning for 3D Medical Image Segmentation(Yang et al. 2019) ](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_1)  <br>*accepted at MICCAI’19*  | - | - |
+| [Scalable Neural Architecture Search for 3D Medical Image Segmentation(Kim et al. 2019) ](https://arxiv.org/abs/1906.05956)  <br>*accepted at MICCAI’19*  | Medical <br> Image Segmentation | - |
+| [Neural Architecture Search for Adversarial Medical Image Segmentation(Dong et al. 2019) ](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_92)  <br>*accepted at MICCAI’19*  | Medical <br> Image Segmentation | - |
+| [Searching Learning Strategy with Reinforcement Learning for 3D Medical Image Segmentation(Yang et al. 2019) ](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_1)  <br>*accepted at MICCAI’19*  | Medical <br> Image Segmentation | - |
 | [Identify Hierarchical Structures from Task-Based fMRI Data via Hybrid Spatiotemporal Neural Architecture Search Net(Zhang et al. 2019) ](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_83)  <br>*accepted at MICCAI’19*  | - | - |
 | [Energy-aware Neural Architecture Optimization with Fast Splitting Steepest Descent(Wang et al. 2019) ](https://arxiv.org/abs/1910.03103)  <br>*accepted at accepted EMC2 workshop’19*  | - | - |
 | [Improving one-shot NAS by Surppressing the Posterior Fading(Li et al. 2019) ](https://arxiv.org/abs/1910.02543)   | - | - |
@@ -405,12 +405,12 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Genetic Neural Architecture Search for automatic assessment of human sperm images(Miahi et al. 2019) ](https://arxiv.org/abs/1909.09432)   | - | - |
 | [IR-NAS: Neural Architecture Search for Image Restoration(Zhang et al. 2019) ](https://arxiv.org/abs/1909.08228)   | - | - |
 | [Pose Neural Fabrics Search(Yang et al. 2019) ](https://arxiv.org/abs/1909.07068)   | - | - |
-| [SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation(Wong and Moradi. 2019) ](https://arxiv.org/abs/1909.05962)   | - | - |
+| [SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation(Wong and Moradi. 2019) ](https://arxiv.org/abs/1909.05962)   | 3D <br> Medical <br> Image Segmentation | - |
 | [DARTS+: Improved Differentiable Architecture Search with Early Stopping(Liang et al. 2019) ](https://arxiv.org/abs/1909.06035)   | - | - |
 | [Searching for Accurate Binary Neural Architectures(Shen et al. 2019) ](https://arxiv.org/abs/1909.07378)  <br>*accepted at ICCV’19 Neural Architects workshop*  | - | - |
 | [Improving Keyword Spotting and Language Identification via Neural Architecture Search at Scale(Mazzawi et al. 2019) ](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1916.pdf)  <br>*accepted at INTERSPEECH 2019*  | - | - |
 | [Neural Architecture Search for Class-incremental Learning(Huang et al. 2019) ](https://arxiv.org/abs/1909.06686)   | - | - |
-| [Graph-guided Architecture Search for Real-time Semantic Segmentation(Lin et al. 2019) ](https://arxiv.org/abs/1909.06793)   | - | - |
+| [Graph-guided Architecture Search for Real-time Semantic Segmentation(Lin et al. 2019) ](https://arxiv.org/abs/1909.06793)   | Image Segmentation | - |
 | [CARS: Continuous Evolution for Efficient Neural Architecture Search(Yang et al. 2019) ](https://arxiv.org/abs/1909.04977)  <br>*accepted at CVPR’20*  | - | - |
 | [Bayesian Optimization of Neural Architectures for Human Activity Recognition(Osmani and Hamidi. 2019) ](https://link.springer.com/chapter/10.1007/978-3-030-13001-5_12)  <br>*accepted at Human Activity Sensing*  | - | - |
 | [Compute-Efficient Neural Network Architecture Optimization by a Genetic Algorithm(Litzinger et al. 2019) ](https://link.springer.com/chapter/10.1007/978-3-030-30484-3_32)  <br>*accepted at ICANN’19*  | - | - |
@@ -424,7 +424,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Training compact neural networks via auxiliary overparameterization(Liu et al. 2019) ](https://arxiv.org/abs/1909.02214)   | - | - |
 | [Rethinking the Number of Channels for Convolutional Neural Networks(Zhu et al. 2019) ](https://arxiv.org/abs/1909.01861)   | - | - |
 | [MANAS: Multi-Agent Neural Architecture Search(Carlucci et al. 2019) ](https://arxiv.org/abs/1909.01051)   | - | - |
-| [Resource Optimized Neural Architecture Search for 3D Medical Image Segmentation(Bae et al. 2019) ](https://arxiv.org/abs/1909.00548)  <br>*accepted at MICCAI’19*  | - | - |
+| [Resource Optimized Neural Architecture Search for 3D Medical Image Segmentation(Bae et al. 2019) ](https://arxiv.org/abs/1909.00548)  <br>*accepted at MICCAI’19*  | Medical <br> Image Segmentation | - |
 | [Neural Architecture Search for Joint Optimization of Predictive Power and Biological Knowledge(Zhang et al. 2019) ](https://arxiv.org/abs/1909.00337)   | - | - |
 | [Scalable Reinforcement-Learning-Based Neural Architecture Search for Cancer Deep Learning Research(Balaprakash et al. 2019) ](https://arxiv.org/abs/1909.00311)  <br>*accepted at SC’19*  | - | - |
 | [Automatic Neural Network Search Method for Open Set Recognition(Sun et al. 2019) ](https://ieeexplore.ieee.org/abstract/document/8803605)  <br>*accepted at ICIP’19*  | - | - |
@@ -441,11 +441,11 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Automated Neural Network Construction with Similarity Sensitive Evolutionary Algorithms(Tian et al. 2019) ](http://rvc.eng.miami.edu/Paper/2019/IRI19_EA.pdf)   | - | - |
 | [AutoGAN: Neural Architecture Search for Generative Adversarial Networks(Gong et al. 2019) ](https://arxiv.org/abs/1908.03835)  <br>*accepted at ICCV’19*  | GAN | [Github](https://github.com/VITA-Group/AutoGAN) |
 | [Refining the Structure of Neural Networks Using Matrix Conditioning(Yousefzadeh and O’Leary. 2019) ](https://arxiv.org/abs/1908.02400)   | - | - |
-| [SqueezeNAS: Fast neural architecture search for faster semantic segmentation(Shaw et al. 2019) ](https://arxiv.org/abs/1908.01748)   | - | - |
+| [SqueezeNAS: Fast neural architecture search for faster semantic segmentation(Shaw et al. 2019) ](https://arxiv.org/abs/1908.01748)   | Image Segmentation | - |
 | [MoGA: Searching Beyond MobileNetV3(Chu et al. 2019) ](https://arxiv.org/abs/1908.01314)  <br>*accepted at ICASSP’20*  | - | - |
 | [Evolving deep neural networks by multi-objective particle swarm optimization for image classification(Wang et al. 2019) ](https://arxiv.org/abs/1904.09035)  <br>*accepted at GECCO’19*  | - | - |
 | [Particle Swarm Optimisation for Evolving Deep Neural Networks for Image Classification by Evolving and Stacking Transferable Blocks(Wang et al. 2019) ](https://arxiv.org/abs/1907.12659)  <br>*accepted at IEEE CEC’20*  | - | - |
-| [Self-Adaptive 2D-3D Ensemble of Fully Convolutional Networks for Medical Image Segmentation(Calisto and Lai-Yuen. 2019) ](https://arxiv.org/abs/1907.11587)  <br>*accepted at SPIE Medical Imaging’20*  | - | - |
+| [Self-Adaptive 2D-3D Ensemble of Fully Convolutional Networks for Medical Image Segmentation(Calisto and Lai-Yuen. 2019) ](https://arxiv.org/abs/1907.11587)  <br>*accepted at SPIE Medical Imaging’20*  | Medical <br> Image Segmentation | - |
 | [MemNet: Memory-Efficiency Guided Neural Architecture Search with Augment-Trim learning(by Liu et al. 2019) ](https://arxiv.org/abs/1907.09569)   | - | - |
 | [Efficient Novelty-Driven Neural Architecture Search(Zhang et al. 2019) ](https://arxiv.org/abs/1907.09109)   | - | - |
 | [PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search(Xu et al. 2019) ](https://arxiv.org/abs/1907.05737)   | - | - |
@@ -475,7 +475,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Continual and Multi-Task Architecture Search(Pasunuru and Bansal. 2019) ](https://arxiv.org/abs/1906.05226)   | - | - |
 | [AutoGrow: Automatic Layer Growing in Deep Convolutional Networks(Wen et al. 2019) ](https://arxiv.org/abs/1906.02909)   | - | - |
 | [One-Short Neural Architecture Search via Compressing Sensing(Cho et al. 2019) ](https://arxiv.org/abs/1906.02869)   | - | - |
-| [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation(Zhu et al. 2019) ](https://arxiv.org/abs/1906.02817)   | - | - |
+| [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation(Zhu et al. 2019) ](https://arxiv.org/abs/1906.02817)   | Medical <br> Image Segmentation | - |
 | [StyleNAS: An Empirical Study of Neural Architecture Search to Uncover Surprisingly Fast End-to-End Universal Style Transfer Networks(An et al. 2019) ](https://arxiv.org/abs/1906.02470)   | - | - |
 | [Efficient Forward Architecture Search(Hu et al. 2019) ](https://arxiv.org/abs/1905.13360)  <br>*accepted at NeurIPS’19*  | - | - |
 | [Differentiable Neural Architecture Search via Proximal Iterations(Yao et al. 2019) ](https://arxiv.org/abs/1905.13577)   | - | - |
@@ -508,15 +508,15 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Searching for A Robust Neural Architecture in Four GPU Hours(Dong and Yang 2019) ](https://xuanyidong.com/publication/cvpr-2019-gradient-based-diff-sampler/)  <br>*accepted at CVPR’19*  | - | - |
 | [Evolving unsupervised deep neural networks for learning meaningful representations(Sun et al. 2019, accepted by IEEE Transactions on Evolutionary Computation) ](https://arxiv.org/abs/1712.05043)   | - | - |
 | [Evolving Deep Convolutional Neural Networks for Image Classification(Sun et al. 2019, accepted by IEEE Transactions on Evolutionary Computation) ](https://arxiv.org/abs/1710.10741)   | - | - |
-| [AdaResU-Net: Multiobjective Adaptive Convolutional Neural Network for Medical Image Segmentation(Baldeon-Calisto and Lai-Yuen. 2019.) ](https://www.sciencedirect.com/science/article/pii/S0925231219304679)  <br>*accepted at Neurocomputing*  | - | - |
+| [AdaResU-Net: Multiobjective Adaptive Convolutional Neural Network for Medical Image Segmentation(Baldeon-Calisto and Lai-Yuen. 2019.) ](https://www.sciencedirect.com/science/article/pii/S0925231219304679)  <br>*accepted at Neurocomputing*  | Medical <br> Image Segmentation | - |
 | [Automatic Design of Convolutional Neural Network for Hyperspectral Image Classification(Chen et al. 2019) ](https://ieeexplore.ieee.org/abstract/document/8703410)  <br>*accepted at IEEE Transactions on Geoscience and Remote Sensing*  | - | - |
 | [Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation(Chen et al. 2019) ](https://arxiv.org/abs/1904.12760)   | - | - |
 | [Design Automation for Efficient Deep Learning Computing(Han et al. 2019) ](https://arxiv.org/abs/1904.10616)   | - | - |
 | [CascadeML: An Automatic Neural Network Architecture Evolution and Training Algorithm for Multi-label Classification(Pakrashi and Namee 2019) ](https://arxiv.org/abs/1904.10551)   | - | - |
 | [GraphNAS: Graph Neural Architecture Search with Reinforcement Learning(Gao et al. 2019) ](https://arxiv.org/abs/1904.09981)   | - | - |
 | [Neural Architecture Search for Deep Face Recognition(Zhu. 2019) ](https://arxiv.org/abs/1904.09523)   | - | - |
-| [Efficient Neural Architecture Search on Low-Dimensional Data for OCT Image Segmentation(Gessert and Schlaefer. 2019) ](https://openreview.net/forum?id=Syg3FDjntN)   | - | - |
-| [NAS-Unet: Neural Architecture Search for Medical Image Segmentation(Weng et al. 2019) ](https://ieeexplore.ieee.org/document/8681706)  <br>*accepted at IEEE Access*  | - | - |
+| [Efficient Neural Architecture Search on Low-Dimensional Data for OCT Image Segmentation(Gessert and Schlaefer. 2019) ](https://openreview.net/forum?id=Syg3FDjntN)   | Medical <br> Image Segmentation | - |
+| [NAS-Unet: Neural Architecture Search for Medical Image Segmentation(Weng et al. 2019) ](https://ieeexplore.ieee.org/document/8681706)  <br>*accepted at IEEE Access*  | Medical <br> Image Segmentation | - |
 | [Fast DENSER: Efficient Deep NeuroEvolution(Assunção et al. 2019) ](https://link.springer.com/chapter/10.1007/978-3-030-16670-0_13)  <br>*accepted at ECGP’19*  | - | - |
 | [NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection(Ghaisi et al. 2019) ](https://arxiv.org/abs/1904.07392)  <br>*accepted at CVPR’19*  | - | - |
 | [Automated Search for Configurations of Deep Neural Network Architectures(Ghamizi et al. 2019) ](https://arxiv.org/abs/1904.04612)  <br>*accepted at SPLC’19*  | - | - |
@@ -526,7 +526,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [ASAP: Architecture Search, Anneal and Prune(Noy et al. 2019) ](https://arxiv.org/abs/1904.04123)   | - | - |
 | [Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours(Stamoulis et al. 2019) ](https://arxiv.org/abs/1904.02877)   | - | - |
 | [Architecture Search of Dynamic Cells for Semantic Video Segmentation(Nekrasov et al. 2019) ](https://arxiv.org/abs/1904.02371)   | - | - |
-| [Template-Based Automatic Search of Compact Semantic Segmentation Architectures(Nekrasov et al. 2019) ](https://arxiv.org/abs/1904.02365)   | - | - |
+| [Template-Based Automatic Search of Compact Semantic Segmentation Architectures(Nekrasov et al. 2019) ](https://arxiv.org/abs/1904.02365)   | Image Segmentation | - |
 | [Exploring Randomly Wired Neural Networks for Image Recognition(Xie et al. 2019) ](https://arxiv.org/abs/1904.01569)   | - | - |
 | [Understanding Neural Architecture Search Techniques(Adam and Lorraine 2019) ](https://arxiv.org/abs/1904.00438)   | - | - |
 | [Automatic Convolutional Neural Architecture Search for Image Classification Under Different Scenes(Weng et al. 2019) ](https://ieeexplore.ieee.org/document/8676019)  <br>*accepted at accepted for IEEE Access*  | - | - |
@@ -600,7 +600,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [You only search once: Single Shot Neural Architecture Search via Direct Sparse Optimization(Zhang et al. 2018) ](https://arxiv.org/abs/1811.01567)   | - | - |
 | [Automatically Evolving CNN Architectures Based on Blocks(Sun et al. 2018) ](https://arxiv.org/abs/1810.11875)  <br>*accepted at accepted by IEEE Transactions on Neural Networks and Learning Systems*  | - | - |
 | [The CoSTAR Block Stacking Dataset: Learning with Workspace Constraints(Hundt et al. 2018) ](https://arxiv.org/abs/1810.11714)  <br>*accepted at IROS’19*  | - | - |
-| [Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells(Nekrasov et al. 2018) ](https://arxiv.org/abs/1810.10804)  <br>*accepted at CVPR’19*  | - | - |
+| [Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells(Nekrasov et al. 2018) ](https://arxiv.org/abs/1810.10804)  <br>*accepted at CVPR’19*  | Image Segmentation | - |
 | [Automatic Configuration of Deep Neural Networks with Parallel Efficient Global Optimization(van Stein et al. 2018) ](https://arxiv.org/abs/1810.05526)   | - | - |
 | [Gradient Based Evolution to Optimize the Structure of Convolutional Neural Networks(Mitschke et al. 2018) ](https://ieeexplore.ieee.org/document/8451394)   | - | - |
 | [Searching Toward Pareto-Optimal Device-Aware Neural Architectures(Cheng et al. 2018) ](https://arxiv.org/abs/1808.09830)   | - | - |
@@ -614,7 +614,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Efficient Progressive Neural Architecture Search(Perez-Rua et al. 2018) ](https://arxiv.org/abs/1808.00391)   | - | - |
 | [MnasNet: Platform-Aware Neural Architecture Search for Mobile(Tan et al. 2018) ](https://arxiv.org/abs/1807.11626)  <br>*accepted at CVPR’19*  | - | - |
 | [Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search(Zela et al. 2018) ](https://arxiv.org/abs/1807.06906)   | - | - |
-| [Automatically Designing CNN Architectures for Medical Image Segmentation(Mortazi and Bagci 2018) ](https://arxiv.org/abs/1807.07663)   | - | - |
+| [Automatically Designing CNN Architectures for Medical Image Segmentation(Mortazi and Bagci 2018) ](https://arxiv.org/abs/1807.07663)   | Medical <br> Image Segmentation | - |
 | [MONAS: Multi-Objective Neural Architecture Search using Reinforcement Learning(Hsu et al. 2018) ](https://arxiv.org/abs/1806.10332)   | - | - |
 | [Path-Level Network Transformation for Efficient Architecture Search(Cai et al. 2018) ](https://arxiv.org/abs/1806.02639)  <br>*accepted at ICML’18*  | - | - |
 | [Lamarckian Evolution of Convolutional Neural Networks(Prellberg and Kramer, 2018) ](https://arxiv.org/abs/1806.08099)   | - | - |
