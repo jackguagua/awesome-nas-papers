@@ -179,22 +179,22 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Improving Neuroevolution Using Island Extinction And Repopulation(Lyu et al. 2020) ](https://arxiv.org/abs/2005.07376)   | - | - |
 | [A Framework for Exploring and Modelling Neural Architecture Search Methods(Radiuk et al. 2020) ](http://ceur-ws.org/Vol-2604/paper70.pdf)   | - | - |
 | [You Only Search Once: A Fast Automation Framework for Single-Stage DNN/Accelerator Co-design(Chen et al. 2020) ](https://arxiv.org/abs/2005.07075)   | - | - |
-| [DARTS-ASR: Differentiable Architecture Search for Multilingual Speech Recognition and Adaptation(Chen et al. 2020) ](https://arxiv.org/abs/2005.07029)   | - | - |
-| [A Semi-Supervised Assessor of Neural Architectures(Tang et al. 2020) ](https://arxiv.org/abs/2005.06821)  <br>*accepted at CVPR 2020*  | - | - |
-| [Neural Architecture Search for Gliomas Segmentation on Multimodal Magnetic Resonance Imaging(Wang et al. 2020) ](https://arxiv.org/abs/2005.06338)   | Multimodal Learning <br> | - |
-| [Binarizing MobileNet via Evolution-based Searching(Phan et al. 2020) ](https://arxiv.org/abs/2005.06305)   | - | - |
-| [Neural Architecture Transfer(Lu et al. 2020) ](https://arxiv.org/abs/2005.05859)   | - | - |
-| [Optimization of deep neural networks: a survey and unified taxonomy(Talbi 2020) ](https://hal.inria.fr/hal-02570804/document)   | - | - |
-| [Auto-Fas: Searching Lightweight Networks for Face Anti-Spoofing(Yu et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9053587)  <br>*accepted at accetped at ICASSP 2020*  | - | - |
-| [Neuro Evolutional with Game-Driven Cultural Algorithms(Waris and Reynolds 2020) ](https://www.researchgate.net/profile/Faisal_Waris/publication/341099885_Neuro_Evolutional_with_Game-Driven_Cultural_Algorithms/links/5eadf89c45851592d6b4a953/Neuro-Evolutional-with-Game-Driven-Cultural-Algorithms.pdf)  <br>*accepted at ACM GECCO 2020*  | - | - |
-| [NASIL: Neural Architecture Search With Imitation Learning(Fard et al. 2020) ](https://ieeexplore.ieee.org/document/9054748)  <br>*accepted at ICASSP 2020*  | - | - |
-| [Noisy Differentiable Architecture Search(Chu et al. 2020) ](https://arxiv.org/abs/2005.03566)   | - | - |
-| [AutoSpeech: Neural Architecture Search for Speaker Recognition(Ding et al. 2020) ](https://arxiv.org/abs/2005.03215)   | - | - |
-| [Learning Architectures from an Extended Search Space for Language Modeling(Li et al. 2020) ](https://arxiv.org/abs/2005.02593)   | - | - |
-| [CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs( Zhuo et al. 2020) ](https://arxiv.org/abs/2005.00057)   | - | - |
-| [Particle Swarm Optimization for Evolving Deep Convolutional Neural Networks for Image Classification: Single- and Multi-Objective Approaches(Wang et al. 2020) ](https://link.springer.com/chapter/10.1007/978-981-15-3685-4_6)  <br>*accepted at accepted in book on “Deep Neural Evolution”*  | - | - |
-| [Optimizing Neural Architecture Search using Limited GPU Time in a Dynamic Search Space: A Gene Expression Programming Approach(Alves and de Oliveira. 2020) ](https://arxiv.org/abs/2005.07669)  <br>*accepted at IEEE CEC*  | - | - |
-| [Local Search is State of the Art for Neural Architecture Search Benchmarks(White et al. 2020) ](https://arxiv.org/abs/2005.02960)  <br>*accepted at AutoML workshop at ICML’20*  | - | [Github](https://github.com/realityengines/local_search) |
+| [DARTS-ASR: Differentiable Architecture Search for Multilingual Speech Recognition and Adaptation(Chen et al. 2020) ](https://arxiv.org/abs/2005.07029) <br> *accepted at INTERSPEECH 2020*  | Speech Recognition <br> DARTS | - |
+| [A Semi-Supervised Assessor of Neural Architectures(Tang et al. 2020) ](https://arxiv.org/abs/2005.06821)  <br>*accepted at CVPR 2020*  | Estimation Strategy <br> GNN | - |
+| [Neural Architecture Search for Gliomas Segmentation on Multimodal Magnetic Resonance Imaging(Wang et al. 2020) ](https://arxiv.org/abs/2005.06338)   | Medical | - |
+| [Binarizing MobileNet via Evolution-based Searching(Phan et al. 2020) ](https://arxiv.org/abs/2005.06305)   | Model Compression | - |
+| [Neural Architecture Transfer(Lu et al. 2020) ](https://arxiv.org/abs/2005.05859)   | Transfer Learning <br> Evolutionary | [Github](https://github.com/human-analysis/neural-architecture-transfer) |
+| [Optimization of deep neural networks: a survey and unified taxonomy(Talbi 2020) ](https://hal.inria.fr/hal-02570804/document)   | Survey | - |
+| [Auto-Fas: Searching Lightweight Networks for Face Anti-Spoofing(Yu et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9053587)  <br>*accepted at accetped at ICASSP 2020*  | Face Anti-spoofing <br> Model Compression | - |
+| [Neuro Evolutional with Game-Driven Cultural Algorithms(Waris and Reynolds 2020) ](https://www.researchgate.net/profile/Faisal_Waris/publication/341099885_Neuro_Evolutional_with_Game-Driven_Cultural_Algorithms/links/5eadf89c45851592d6b4a953/Neuro-Evolutional-with-Game-Driven-Cultural-Algorithms.pdf)  <br>*accepted at ACM GECCO 2020*  | Game Playing <br> Search Strategy | - |
+| [NASIL: Neural Architecture Search With Imitation Learning(Fard et al. 2020) ](https://ieeexplore.ieee.org/document/9054748)  <br>*accepted at ICASSP 2020*  | Imitation Learning <br> Search Strategy | - |
+| [Noisy Differentiable Architecture Search(Chu et al. 2020) ](https://arxiv.org/abs/2005.03566)   | Search Strategy | [Github](https://github.com/xiaomi-automl/NoisyDARTS) |
+| [AutoSpeech: Neural Architecture Search for Speaker Recognition(Ding et al. 2020) ](https://arxiv.org/abs/2005.03215)   | Speech Recognition | [Github](https://github.com/VITA-Group/AutoSpeech) |
+| [Learning Architectures from an Extended Search Space for Language Modeling(Li et al. 2020) ](https://arxiv.org/abs/2005.02593) <br>*accepted at ACL 2020*  | Language Modeling <br> Search Space  | - |
+| [CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs( Zhuo et al. 2020) ](https://arxiv.org/abs/2005.00057)   | Model Compression <br> DARTS | - |
+| [Particle Swarm Optimization for Evolving Deep Convolutional Neural Networks for Image Classification: Single- and Multi-Objective Approaches(Wang et al. 2020) ](https://link.springer.com/chapter/10.1007/978-981-15-3685-4_6)  <br>*accepted at accepted in book on “Deep Neural Evolution”*  | Search Strategy | - |
+| [Optimizing Neural Architecture Search using Limited GPU Time in a Dynamic Search Space: A Gene Expression Programming Approach(Alves and de Oliveira. 2020) ](https://arxiv.org/abs/2005.07669)  <br>*accepted at IEEE CEC*  | Search Strategy | [Github](https://github.com/jeohalves/nasgep) |
+| [Local Search is State of the Art for Neural Architecture Search Benchmarks(White et al. 2020) ](https://arxiv.org/abs/2005.02960)  <br>*accepted at AutoML workshop at ICML’20*  | Search Strategy | [Github](https://github.com/realityengines/local_search) |
 | [SIPA: A Simple Framework for Efficient Networks(Lee et al. 2020) ](https://arxiv.org/abs/2004.14476)   | - | - |
 | [The effect of reduced training in neural architecture search(Kyriakides and Margaritis. 2020) ](https://link.springer.com/article/10.1007%2Fs00521-020-04915-6)  <br>*accepted at Neural Comput & Applic*  | - | - |
 | [Efficient Evolutionary Neural Architecture Search (NAS) by Modular Inheritable Crossover(Tan et al. 2020) ](https://link.springer.com/chapter/10.1007%2F978-981-15-3425-6_61)  <br>*accepted at BIC-TA’20*  | Evolutionary | - |
