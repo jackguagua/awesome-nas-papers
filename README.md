@@ -238,18 +238,18 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting(Wu et al. 2020) ](https://arxiv.org/abs/2003.10392)   | - | - |
 | [BS-NAS: Broadening-and-Shrinking One-Shot NAS with Searchable Numbers of Channels(Shen et al. 2020) ](https://arxiv.org/abs/2003.09821)   | - | - |
 | [Probabilistic Dual Network Architecture Search on Graphs(Zhao et al. 2020) ](https://arxiv.org/abs/2003.09676)   | - | - |
-| [GAN Compression: Efficient Architectures for Interactive Conditional GAN(Li et al. 2020) ](https://arxiv.org/abs/2003.08936)   | - | - |
-| [ElixirNet: Relation-aware Network Architecture Adaptation for Medical Lesion Detection(Jiang et al. 2020) ](https://arxiv.org/abs/2003.08770)   | - | - |
-| [Lifelong Learning with Searchable Extension Units(Wang et al. 2020) ](https://arxiv.org/abs/2003.08559)   | - | - |
-| [Efficient Backbone Search for Scene Text Recognition(Zhang et al. 2020) ](https://arxiv.org/abs/2003.06567)   | - | - |
-| [AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data(Erickson  et al. 2020) ](https://arxiv.org/abs/2003.06505)   | - | - |
+| [GAN Compression: Efficient Architectures for Interactive Conditional GAN(Li et al. 2020) ](https://arxiv.org/abs/2003.08936)   | GAN <br> Model Compression <br> One-shot | [Github](https://github.com/mit-han-lab/gan-compression) |
+| [ElixirNet: Relation-aware Network Architecture Adaptation for Medical Lesion Detection(Jiang et al. 2020) ](https://arxiv.org/abs/2003.08770)   | Medical <br> Lesion Detection | - |
+| [Lifelong Learning with Searchable Extension Units(Wang et al. 2020) ](https://arxiv.org/abs/2003.08559)   | Lifelong Learning | - |
+| [Efficient Backbone Search for Scene Text Recognition(Zhang et al. 2020) ](https://arxiv.org/abs/2003.06567)   | Scene Text Recognition | - |
+| [AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data(Erickson  et al. 2020) ](https://arxiv.org/abs/2003.06505)   | Structured Data | - |
 | [PONAS: Progressive One-shot Neural Architecture Search for Very Efficient Deployment(Huang and Chu. 2020) ](https://arxiv.org/abs/2003.05112)   | - | - |
-| [Hierarchical Neural Architecture Search for Single Image Super-Resolution(Guo et al. 2020) ](https://arxiv.org/abs/2003.04619)   | - | - |
+| [Hierarchical Neural Architecture Search for Single Image Super-Resolution(Guo et al. 2020) ](https://arxiv.org/abs/2003.04619)   | Image Super-resolution | - |
 | [How to Train Your Super-Net: An Analysis of Training Heuristics in Weight-Sharing NAS(Yu et al. 2020) ](https://arxiv.org/abs/2003.04276)   | - | - |
-| [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch(Real et al. 2020) ](https://arxiv.org/abs/2003.03384)   | - | - |
-| [Accelerator-Aware Neural Network Design Using AutoML(Gupta and Akin. 2020) ](https://arxiv.org/abs/2003.02838)  <br>*accepted at On-device Intelligence Workshop at MLSys’20*  | - | - |
-| [Real-time Federated Evolutionary Neural Architecture Search(Zhu and Jin. 2020) ](https://arxiv.org/abs/2003.02793)   | - | - |
-| [BATS: Binary ArchitecTure Search(Bulat et al. 2020) ](https://arxiv.org/abs/2003.01711)  <br>*accepted at ECCV’20*  | - | - |
+| [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch(Real et al. 2020)](https://arxiv.org/abs/2003.03384) <br> *accepted at ICML 2020*  | AutoML | [Github](https://github.com/google-research/google-research/tree/master/automl_zero#automl-zero) |
+| [Accelerator-Aware Neural Network Design Using AutoML(Gupta and Akin. 2020) ](https://arxiv.org/abs/2003.02838)  <br>*accepted at On-device Intelligence Workshop at MLSys’20*  | Model Compression | - |
+| [Real-time Federated Evolutionary Neural Architecture Search(Zhu and Jin. 2020) ](https://arxiv.org/abs/2003.02793)   | Federated Learning <br> Evolutionary | - |
+| [BATS: Binary ArchitecTure Search(Bulat et al. 2020) ](https://arxiv.org/abs/2003.01711)  <br>*accepted at ECCV’20*  | Binary Networks <br> DARTS | [Github](https://github.com/1adrianb/binary-nas) |
 | [ADWPNAS: Architecture-Driven Weight Prediction for Neural Architecture Search(Zhang et al. 2020) ](https://arxiv.org/abs/2003.01335)   | - | - |
 | [NAS-Count: Counting-by-Density with Neural Architecture Search(Hu et al. 2020) ](https://arxiv.org/abs/2003.00217)   | - | - |
 | [ImmuNetNAS: An Immune-network approach for searching Convolutional Neural Network Architectures(Kefan and Pang. 2020) ](https://arxiv.org/abs/2002.12704)   | - | - |
