@@ -27,7 +27,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Growing Efficient Deep Networks by Structured Continuous Sparsification(Yuan et al. 2020) ](https://arxiv.org/abs/2007.15353)   | Network Pruning | - |
 | [Lidar Data Classification Based on Automatic Designed CNN(Xie and Chen 2020) ](https://ieeexplore.ieee.org/abstract/document/9139215)  <br>*accepted at IEEE Geoscience and Remote Sensing Letters*  | 3D Deep Learning <br> Gradient-based | - |
 | [Fusion Mechanisms for Human Activity Recognition using Automated Machine Learning(Popescu et al. 2020) ](https://ieeexplore.ieee.org/document/9153764)  <br>*accepted at IEEE Access*  | Human Activity Recognition <br> 3D Deep Learning <br> CV <br> RL  | - |
-| [Mixed-Precision Quantization for CNN-Based Remote Sensing Scene Classification(Wei et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9153122)  <br>*accepted at IEEE Geoscience and Remote Sensing Letters*  | Remote Sensing <br> Model Compressing <br> Mixed-Precision Quantization | - |
+| [Mixed-Precision Quantization for CNN-Based Remote Sensing Scene Classification(Wei et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9153122)  <br>*accepted at IEEE Geoscience and Remote Sensing Letters*  | Remote Sensing <br> Model Compression <br> Mixed-Precision Quantization | - |
 | [Searching Collaborative Agents for Multi-plane Localization in 3D Ultrasound(Huang et al. 2020) ](https://arxiv.org/abs/2007.15273)  <br>*accepted at MICCAI 2020*  | Medical <br> GDAS <br> RL | - |
 | [TF-NAS: Rethinking Three Search Freedoms of Latency-Constrained Differentiable Neural Architecture Search(Hu et al. 2020) ](https://arxiv.org/abs/2008.05314)  <br>*accepted at ECCV 2020*  | TF-NAS | [Github](https://github.com/AberHu/TF-NAS) |
 | [Efficient Oct Image Segmentation Using Neural Architecture Search(Gheshlaghi et al. 2020) ](https://arxiv.org/abs/2007.14790)   | Medical <br>Image Segmentation <br> ProxylessNAS | - |
@@ -37,14 +37,14 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Representation Sharing for Fast Object Detector Search and Beyond(Zhou et al .2020) ](https://arxiv.org/abs/2007.12075)  <br>*accepted at ECCV 2020*  | Object Detection <br>  | - |
 | [AttentionNAS: Spatiotemporal Attention Cell Search for Video Classification(Wang et al. 2020) ](https://arxiv.org/abs/2007.12034)  <br>*accepted at ECCV 2020*  | Video Classification <br> DARTS | - |
 | [MCUNet: Tiny Deep Learning on IoT Devices(Lin et al. 2020) ](https://arxiv.org/abs/2007.10319)   | IoT <br> | - |
-| [Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(Yu et al. 2020) ](https://arxiv.org/abs/2007.10026)  <br>*accepted at ECCV 2020*  | Model Compressing <br> Mixed Precision Quantization <br> DARTS | - |
+| [Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(Yu et al. 2020) ](https://arxiv.org/abs/2007.10026)  <br>*accepted at ECCV 2020*  | Model Compression <br> Mixed Precision Quantization <br> DARTS | - |
 | [NSGANetV2: Evolutionary Multi-Objective Surrogate-Assisted Neural Architecture Search(Lu et al. 2020) ](https://arxiv.org/abs/2007.10396)  <br>*accepted at ECCV 2020*  | Multi-objective Search <br> | [Github](https://github.com/mikelzc1990/nsganetv2) |
 | [CATCH: Context-based Meta Reinforcement Learning for Transferrable Architecture Search(Chen et al. 2020) ](https://arxiv.org/abs/2007.09380)  <br>*accepted at ECCV 2020*  | Meta-learning <br> RL | - |
-| [Standing on the Shoulders of Giants: Hardware and Neural Architecture Co-Search with Hot Start(Jiang et al. 2020) ](https://arxiv.org/abs/2007.09087)  <br>*accepted at IEEE Transactions On Computer-Aided Design of Integrated Circuits and System*  | Model Compressing <br> HotNAS <br> RL| - |
+| [Standing on the Shoulders of Giants: Hardware and Neural Architecture Co-Search with Hot Start(Jiang et al. 2020) ](https://arxiv.org/abs/2007.09087)  <br>*accepted at IEEE Transactions On Computer-Aided Design of Integrated Circuits and System*  | Model Compression <br> HotNAS <br> RL| - |
 | [Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search(Tian et al. 2020) ](https://arxiv.org/abs/2007.09180)  <br>*accepted at ECCV 2020*  | GAN <br> RL | [Github](https://github.com/Yuantian013/E2GAN) |
 | [Neural Architecture Search for Speech Recognition(Hu et al. 2020) ](https://arxiv.org/abs/2007.08818)   | Speech Recognition <br> DARTS | - |
 | [BRP-NAS: Prediction-based NAS using GCNs(Chau et al .2020) ](https://arxiv.org/abs/2007.08668)   | Predictor-based <br> GCN | - |
-| [Finding Non-Uniform Quantization Schemes using Multi-Task Gaussian Processes(do Nascimento et al. 2020) ](https://ui.adsabs.harvard.edu/abs/2020arXiv200707743G/abstract)  <br>*accepted at ECCV 2020*  | Model Compressing <br> Bayesian Optimization | [Github](https://github.com/ActiveVisionLab/NUQ) |
+| [Finding Non-Uniform Quantization Schemes using Multi-Task Gaussian Processes(do Nascimento et al. 2020) ](https://ui.adsabs.harvard.edu/abs/2020arXiv200707743G/abstract)  <br>*accepted at ECCV 2020*  | Model Compression <br> Bayesian Optimization | [Github](https://github.com/ActiveVisionLab/NUQ) |
 | [One-Shot Neural Architecture Search via Novelty Driven Sampling(Zhang et al. 2020) ](https://www.ijcai.org/Proceedings/2020/0441.pdf)  <br>*accepted at IJCAI 2020*  | Evolutionary <br> Single-path One-shot | - |
 | [Neural Architecture Search in A Proxy Validation Loss Landscape(Li et al. 2020) ](https://proceedings.icml.cc/static/paper_files/icml/2020/439-Paper.pdf)  <br>*accepted at ICML 2020*  | - | - |
 | [CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs(Zhuo et al. 2020) ](https://www.ijcai.org/Proceedings/2020/0144.pdf)  <br>*accepted at IJCAI 2020*  | - | - |
@@ -257,38 +257,38 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Automatically Searching for U-Net Image Translator Architecture(Shu and Wang. 2020) ](https://arxiv.org/abs/2002.11581)   | Image-to-image translation <br> Evolutionary | - |
 | [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations(Zhao  et al. 2020) ](https://arxiv.org/abs/2002.11252)   | Recommendation<br>DARTS | - |
 | [Memory-Efficient Models for Scene Text Recognition via Neural Architecture Search(Hong et al. 2020) ](https://openaccess.thecvf.com/content_WACVW_2020/html/w3/Hong_Memory-Efficient_Models_for_Scene_Text_Recognition_via_Neural_Architecture_Search_WACVW_2020_paper.html)  <br>*accepted at WACV’20 workshop*  | Scene Text Recognition <br>Image Recognition <br> ProxylessNAS | - |
-| [Search for Winograd-Aware Quantized Networks(Fernandez-Marques et al. 2020) ](https://arxiv.org/abs/2002.10711)   | Hardware Accelerator<br>Winograd<br>ProxylessNAS | - |
+| [Search for Winograd-Aware Quantized Networks(Fernandez-Marques et al. 2020) ](https://arxiv.org/abs/2002.10711)   | Model Compression<br>Winograd<br>ProxylessNAS | - |
 | [Semi-Supervised Neural Architecture Search(Luo et al. 2020) ](https://arxiv.org/abs/2002.10389)   | SemiNAS<br>NAO | [Github](https://github.com/renqianluo/SemiNAS) |
 | [Neural Architecture Search for Compressed Sensing Magnetic Resonance Image Reconstruction(Yan et al. 2020) ](https://arxiv.org/abs/2002.09625)   | Medical <br> Magnetic Resonance Imaging <br> DARTS | [Github](https://github.com/yjump/NAS-for-CSMRI) |
 | [DSNAS: Direct Neural Architecture Search without Parameter Retraining(Hu et al. 2020) ](https://arxiv.org/abs/2002.09128)   | DSNAS | [Github](https://github.com/SNAS-Series/SNAS-Series) |
 | [Neural Architecture Search For Fault Diagnosis(Li et al. 2020) ](https://arxiv.org/abs/2002.07997)  <br>*accepted at ESREL’20*  | Fault Diagnosis <br> RL<br> Controller-based | - |
 | [Learning Architectures for Binary Networks(Kim et al. 2020) ](https://arxiv.org/abs/2002.06963)  <br>*accepted at ECCV’20*  | Binary Networks <br> DARTS | - |
-| [Efficient Evolutionary Architecture Search for CNN Optimization on GTSRB(Johner and Wassner. 2020) ](https://ieeexplore.ieee.org/abstract/document/8999305/)  <br>*accepted at ICMLA’19*  | Hardware Accelerator <br>Evolutionary | - |
-| [Automating Deep Neural Network Model Selection for Edge Inference(Lu et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/8998995)  <br>*accepted at CogMI’20*  | Hardware Accelerator | - |
+| [Efficient Evolutionary Architecture Search for CNN Optimization on GTSRB(Johner and Wassner. 2020) ](https://ieeexplore.ieee.org/abstract/document/8999305/)  <br>*accepted at ICMLA’19*  | Model Compression <br>Evolutionary | - |
+| [Automating Deep Neural Network Model Selection for Edge Inference(Lu et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/8998995)  <br>*accepted at CogMI’20*  | Model Compression | - |
 | [Neural Architecture Search over Decentralized Data(Xu et al. 2020) ](https://arxiv.org/abs/2002.06352)   | Federated Learning <br> | - |
 | [Automatic Structural Search for Multi-task Learning VALPs(Garciarena et al. 2020) ](https://link.springer.com/chapter/10.1007/978-3-030-41913-4_3)  <br>*accepted at OLA’20*  | Multi-task Learning | - |
 | [RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning(Alletto et al. 2020) ](https://arxiv.org/abs/2003.01181)  <br>*accepted at Meta-Eval 2020 workshop*  | Multimodal Learning | - |
 | [Stabilizing Differentiable Architecture Search via Perturbation-based Regularization(Chen and Hsieh. 2020) ](https://arxiv.org/abs/2002.05283)   | DARTS | - |
-| [Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator(Abdelfattah et al. 2020) ](https://arxiv.org/abs/2002.05022)  <br>*accepted at DAC’20*  | Hardware Accelerator <br> RL<br> | - |
-| [Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator Designs Targeting Multiple Tasks(Yang et al. 2020) ](https://arxiv.org/abs/2002.04116)  <br>*accepted at DAC’20*  | Hardware Accelerator <br> ASIC <br> RL<br>Controller-based | - |
-| [FPNet: Customized Convolutional Neural Network for FPGA Platforms(Yang et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/8977837)  <br>*accepted at FPT’20*  | Hardware Accelerator <br> FPGA <br> RL<br> Controller-based | - |
-| [AutoFCL: Automatically Tuning Fully Connected Layers for Transfer Learning(Basha et al. 2020) ](https://arxiv.org/abs/2001.11951)   | - | - |
+| [Best of Both Worlds: AutoML Codesign of a CNN and its Model Compression(Abdelfattah et al. 2020) ](https://arxiv.org/abs/2002.05022)  <br>*accepted at DAC’20*  | Model Compression <br> RL<br> | - |
+| [Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator Designs Targeting Multiple Tasks(Yang et al. 2020) ](https://arxiv.org/abs/2002.04116)  <br>*accepted at DAC’20*  | Model Compression <br> ASIC <br> RL<br>Controller-based | - |
+| [FPNet: Customized Convolutional Neural Network for FPGA Platforms(Yang et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/8977837)  <br>*accepted at FPT’20*  | Model Compression <br> FPGA <br> RL<br> Controller-based | - |
+| [AutoFCL: Automatically Tuning Fully Connected Layers for Transfer Learning(Basha et al. 2020) ](https://arxiv.org/abs/2001.11951)   | Transfer Learning <br> CV <br> Bayesian Optimization | - |
 | [NASS: Optimizing Secure Inference via Neural Architecture Search(Bian et al. 2020) ](https://arxiv.org/abs/2001.11854)  <br>*accepted at ECAI’20*  | Secure Inference <br>Privacy <br>Controller-based| - |
-| [Search for Better Students to Learn Distilled Knowledge(Gu et al. 2020) ](https://arxiv.org/abs/2001.11612)   | - | - |
+| [Search for Better Students to Learn Distilled Knowledge(Gu et al. 2020) ](https://arxiv.org/abs/2001.11612)  <br>*accepted at ECAI'20*  | Model Compression <br> Knowledge Distillation <br> DARTS | - |
 | [Bayesian Neural Architecture Search using A Training-Free Performance Metric(Camero et al. 2020) ](https://arxiv.org/abs/2001.10726)   | RNN <br>Bayesian Optimization | - |
 | [NAS-Bench-1Shot1: Benchmarking and Dissecting One-Shot Neural Architecture Search(Zela et al. 2020) ](https://arxiv.org/abs/2001.10422)  <br>*accepted at ICLR’20*  | Benchmark <br>One-shot | - |
 | [Convolution Neural Network Architecture Learning for Remote Sensing Scene Classification(Chen et al. 2010) ](https://arxiv.org/abs/2001.09614)   | Remote Sensing <br> RL | - |
 | [Multi-objective Neural Architecture Search via Non-stationary Policy Gradient(Chen et al. 2020) ](https://arxiv.org/abs/2001.08437)   | RL <br>Controller-based | - |
 | [Efficient Neural Architecture Search: A Broad Version(Ding et al. 2020) ](https://arxiv.org/abs/2001.06679)   | ENAS | - |
 | [ENAS U-Net: Evolutionary Neural Architecture Search for Retinal Vessel(Fan et al. 2020) ](https://arxiv.org/abs/2001.06678)   | Medical <br>Image Segmentation <br>Evolutionary | - |
-| [FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks(Iqbal et al. 2020) ](https://arxiv.org/abs/2001.06588)   | - | - |
+| [FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks(Iqbal et al. 2020) ](https://arxiv.org/abs/2001.06588)   | Multi Objective Search <br> Bayesian Optimization | [Github](https://github.com/softsys4ai/FlexiBO) |
 | [Up to two billion times acceleration of scientific simulations with deep neural architecture search(Kasim et al. 2020) ](https://arxiv.org/abs/2001.08055)   | Scientific Simulations <br> ProxylessNAS | - |
 | [Latency-Aware Differentiable Neural Architecture Search(Xu et al. 2020) ](https://arxiv.org/abs/2001.06392)   | DARTS | - |
 | [MixPath: A Unified Approach for One-shot Neural Architecture Search(Chu et al. 2020) ](https://arxiv.org/abs/2001.05887)   | One-shot | - |
 | [Neural Architecture Search for Skin Lesion Classification(Kwasigroch et al. 2020) ](https://ieeexplore.ieee.org/document/8950333)  <br>*accepted at IEEE Access*  | Medical <br>Image Classification <br>Network Morphism | - |
-| [AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search(Chen et al. 2020) ](https://arxiv.org/abs/2001.04246)   | BERT <br>NLP <br>DARTS | - |
-| [Neural Architecture Search for Deep Image Prior(Ho et al. 2020) ](https://arxiv.org/abs/2001.04776)   | - | - |
-| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) ](https://arxiv.org/abs/2001.02525)  <br>*accepted at ICLR’20*  | - | - |
+| [AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search(Chen et al. 2020) ](https://arxiv.org/abs/2001.04246)   | BERT <br> Model Compression <br> NLP <br>DARTS | - |
+| [Neural Architecture Search for Deep Image Prior(Ho et al. 2020) ](https://arxiv.org/abs/2001.04776)   | Image Denoising <br> Image Inpainting <br> Image Super-resolution <br> Evolutionary | - |
+| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) ](https://arxiv.org/abs/2001.02525)  <br>*accepted at ICLR’20*  | Object Detection <br> Semantic Segmentation <br> DARTS | [Github](https://github.com/JaminFong/FNA) |
 | [FTT-NAS: Discovering Fault-Tolerant Neural Architecture(Li et al. 2020) ](http://nicsefc.ee.tsinghua.edu.cn/media/publications/2020/ASPDAC20_293_6p4Ghq4.pdf)  <br>*accepted at ASP-DAC 2020*  | Multi-objective Search <br> RL | - |
 | [Deeper Insights into Weight Sharing in Neural Architecture Search(Zhang et al. 2020) ](https://arxiv.org/abs/2001.01431)   | Survey <br> Weight Sharing <br> One-shot | - |
 | [EcoNAS: Finding Proxies for Economical Neural Architecture Search(Zhou et al. 2020) ](https://arxiv.org/abs/2001.01233)  <br>*accepted at CVPR’20*  | Evolutionary | - |
@@ -533,7 +533,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Single Path One-Shot Neural Architecture Search with Uniform Sampling(Guo et al. 2019) ](https://arxiv.org/abs/1904.00420)   | - | - |
 | [Network Slimming by Slimmable Networks: Towards One-Shot Architecture Search for Channel Numbers(Yu and Huang 2019) ](https://arxiv.org/abs/1903.11728)   | - | - |
 | [sharpDARTS: Faster and More Accurate Differentiable Architecture Search(Hundt et al. 2019) ](https://arxiv.org/abs/1903.09900)   | - | - |
-| [DetNAS: Neural Architecture Search on Object Detection(Chen et al. 2019) ](https://arxiv.org/abs/1903.10979)  <br>*accepted at NeurIPS’19*  | - | - |
+| [DetNAS: Neural Architecture Search on Object Detection(Chen et al. 2019) ](https://arxiv.org/abs/1903.10979)  <br>*accepted at NeurIPS’19*  | Object Detection | [megvii-code](https://github.com/megvii-model/DetNAS) |
 | [Evolution of Deep Convolutional Neural Networks Using Cartesian Genetic Programming(Suganuma et al. 2019) ](https://www.mitpressjournals.org/doi/abs/10.1162/evco_a_00253)  <br>*accepted at Evolutionary Computation*  | - | - |
 | [Deep Evolutionary Networks with Expedited Genetic Algorithm for Medical Image Denoising(Liu et al. 2019) ](https://www.sciencedirect.com/science/article/abs/pii/S1361841518307734)  <br>*accepted at Medical Image Analysis*  | - | - |
 | [Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly(Kandasamy et al. 2019) ](https://arxiv.org/abs/1903.06694)   | - | - |
