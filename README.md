@@ -117,20 +117,19 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Heuristic Architecture Search Using Network Morphism for Chest X-Ray Classification(Radiuk and Kutucu 2020) ](http://ceur-ws.org/Vol-2623/paper11.pdf)   | - | - |
 | [Task-aware Performance Prediction for Efficient Architecture Search(Kokiopoulou et al. 2020) ](http://ecai2020.eu/papers/256_paper.pdf)  <br>*accepted at ECAI 2020*  | - | - |
 | [Beyond Network Pruning: a Joint Search-and-Training Approach(Lu et al. 2020) ](http://see.xidian.edu.cn/faculty/wsdong/Papers/Conference/ijcai20.pdf)  <br>*accepted at IJCAI 2020*  | - | - |
-| [Neural Ensemble Search for Performant and Calibrated Predictions(Zaidi et al. 2020) ](https://arxiv.org/pdf/2006.08573.pdf)   | - | - |
-| [Multi-fidelity Neural Architecture Search with Knowledge Distillation(Trofimov et al. 2020) ](https://arxiv.org/abs/2006.08341)   | - | - |
+| [Neural Ensemble Search for Performant and Calibrated Predictions(Zaidi et al. 2020) ](https://arxiv.org/abs/2006.08573)   | Ensemble | - |
+| [Multi-fidelity Neural Architecture Search with Knowledge Distillation(Trofimov et al. 2020) ](https://arxiv.org/abs/2006.08341)   | Estimation Strategy | - |
 | [Differentiable Neural Architecture Transformation for Reproducible Architecture Improvement(Kim et al. 2020) ](https://arxiv.org/pdf/2006.08231.pdf)   | - | - |
-| [Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search(Nguyen et al. 2020) ](https://arxiv.org/abs/2006.07593)   | - | - |
-| [Neural Architecture Search using Bayesian Optimisation with Weisfeiler-Lehman Kernel(Ru et al. 2020) ](https://arxiv.org/abs/2006.07556)   | - | - |
-| [NAS-Bench-NLP: Neural Architecture Search Benchmark for Natural Language Processing(Klyuchnikov et al. 2020) ](https://arxiv.org/abs/2006.07116)   | - | - |
-| [Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?(Yan et el. 2020) ](https://arxiv.org/abs/2006.06936)   | - | - |
-| [Few-shot Neural Architecture Search(Zhao et al. 2020) ](https://arxiv.org/abs/2006.06863)   | - | - |
+| [Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search(Nguyen et al. 2020) ](https://arxiv.org/abs/2006.07593)   | Search Strategy | - |
+| [Neural Architecture Search using Bayesian Optimisation with Weisfeiler-Lehman Kernel(Ru et al. 2020) ](https://arxiv.org/abs/2006.07556)   | Search Strategy | - |
+| [NAS-Bench-NLP: Neural Architecture Search Benchmark for Natural Language Processing(Klyuchnikov et al. 2020) ](https://arxiv.org/abs/2006.07116)   | NLP <br> Benchmark | - |
+| [Few-shot Neural Architecture Search(Zhao et al. 2020) ](https://arxiv.org/abs/2006.06863)   | Estimation Strategy | - |
 | [NADS: Neural Architecture Distribution Search for Uncertainty Awareness(Ardywibowo et al. 2020) ](https://arxiv.org/abs/2006.06646)   | - | - |
-| [Towards Efficient Automated Machine Learning(Li 2020) ](http://reports-archive.adm.cs.cmu.edu/anon/ml2020/CMU-ML-20-104.pdf)   | - | - |
-| [AMER: Automatic Behavior Modeling and Interaction Exploration in Recommender System(Zhao et al. 2020) ](https://arxiv.org/abs/2006.05933)   | - | - |
-| [Neuroevolution in Deep Neural Networks: Current Trends and Future Challenges(Galvan and Mooney 2020) ](https://arxiv.org/abs/2006.05415)   | - | - |
-| [AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks(Fu et al. 2020) ](https://arxiv.org/abs/2006.08198)  <br>*accepted at ICML 2020*  | - | - |
-| [Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?(Yan et al. 2020) ](https://arxiv.org/abs/2006.06936)   | - | - |
+| [Towards Efficient Automated Machine Learning(Li 2020) ](http://reports-archive.adm.cs.cmu.edu/anon/ml2020/CMU-ML-20-104.pdf)   | Survey | - |
+| [AMER: Automatic Behavior Modeling and Interaction Exploration in Recommender System(Zhao et al. 2020) ](https://arxiv.org/abs/2006.05933)   | CTR | - |
+| [Neuroevolution in Deep Neural Networks: Current Trends and Future Challenges(Galvan and Mooney 2020) ](https://arxiv.org/abs/2006.05415)   | Survey | - |
+| [AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks(Fu et al. 2020) ](https://arxiv.org/abs/2006.08198)  <br>*accepted at ICML 2020*  | GAN <br> Image Translator | [Github](https://github.com/VITA-Group/AGD) |
+| [Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?(Yan et al. 2020) ](https://arxiv.org/abs/2006.06936)   | Unsupervised <br> Search Strategy | - |
 | [Hardware-Aware Transformable Architecture Search with Efficient Search Space(Jiang et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9102721)  <br>*accepted at accpeted at ICME 2020*  | Search Space <br> Multi-objective Search | - |
 | [Sparse CNN Archtitecture Search(Yeshwanth et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9102879)  <br>*accepted at ICME 2020*  | - | - |
 | [Auto-Generating Neural Networks with Reinforcement Learning for Multi-Purpose Image Forensics(Wei et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9102943)  <br>*accepted at ICME 2020*  | Image Forensics | - |
@@ -252,7 +251,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [ImmuNetNAS: An Immune-network approach for searching Convolutional Neural Network Architectures(Kefan and Pang. 2020) ](https://arxiv.org/abs/2002.12704)   | - | - |
 | [Neural Inheritance Relation Guided One-Shot Layer Assignment Search(Meng et al. 2020) ](https://arxiv.org/abs/2002.12580)   | - | - |
 | [Automatically Searching for U-Net Image Translator Architecture(Shu and Wang. 2020) ](https://arxiv.org/abs/2002.11581)   | Image Translator <br> Evolutionary | - |
-| [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations(Zhao  et al. 2020) ](https://arxiv.org/abs/2002.11252)   | Recommendation<br>DARTS | - |
+| [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations(Zhao  et al. 2020) ](https://arxiv.org/abs/2002.11252)   | CTR <br> DARTS | - |
 | [Memory-Efficient Models for Scene Text Recognition via Neural Architecture Search(Hong et al. 2020) ](https://openaccess.thecvf.com/content_WACVW_2020/html/w3/Hong_Memory-Efficient_Models_for_Scene_Text_Recognition_via_Neural_Architecture_Search_WACVW_2020_paper.html)  <br>*accepted at WACV’20 workshop*  | Scene Text Recognition <br>Image Recognition <br> ProxylessNAS | - |
 | [Search for Winograd-Aware Quantized Networks(Fernandez-Marques et al. 2020) ](https://arxiv.org/abs/2002.10711)   | Model Compression<br>Winograd<br>ProxylessNAS | - |
 | [Semi-Supervised Neural Architecture Search(Luo et al. 2020) ](https://arxiv.org/abs/2002.10389)   | SemiNAS<br>NAO | [Github](https://github.com/renqianluo/SemiNAS) |
