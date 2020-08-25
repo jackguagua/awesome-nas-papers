@@ -62,61 +62,59 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Graph Neural Architecture Search(Gao et al. 2020) ](https://www.researchgate.net/profile/Chuan_Zhou5/publication/342789484_Graph_Neural_Architecture_Search/links/5f0be495299bf18816197d15/Graph-Neural-Architecture-Search.pdf)  <br>*accepted at IJCAI 2020*  | GNN <br> RL | [Github](https://github.com/GraphNAS/GraphNAS) |
 | [Ensembles of Networks Produced from Neural Architecture Search(Herron et al. 2020) ](https://keuperj.github.io/MLHPCS/paper/NASEnsemblesFinal.pdf)   | Neural Network Ensembles | - |
 | [Neural Architecture Search with GBDT(Luo et al. 2020) ](https://arxiv.org/abs/2007.04785)   | Predictor-based | [Github](https://github.com/renqianluo/GBDT-NAS) |
-| [A Study on Encodings for Neural Architecture Search(White et al. 2020) ](https://arxiv.org/pdf/2007.04965.pdf)   | - | - |
-| [NASGEM: Neural Architecture Search via Graph Embedding Method(Cheng et al. 2020) ](https://arxiv.org/abs/2007.04452)   | - | - |
-| [Neuro-evolution using Game-Driven Cultural Algorithms(Waris and Reynolds) ](https://dl.acm.org/doi/abs/10.1145/3377929.3398093)  <br>*accepted at GECCO 2020*  | - | - |
+| [A Study on Encodings for Neural Architecture Search(White et al. 2020) ](https://arxiv.org/pdf/2007.04965.pdf)   | Study <br> Survey | [Github](https://github.com/naszilla/nas-encodings) |
+| [NASGEM: Neural Architecture Search via Graph Embedding Method(Cheng et al. 2020) ](https://arxiv.org/abs/2007.04452)   | Estimation Strategy | - |
 | [An Evolution-based Approach for Efficient Differentiable Architecture Search(Kobayashi and Nagao) ](https://dl.acm.org/doi/abs/10.1145/3377929.3390003)  <br>*accepted at GECCO 2020*  | - | - |
 | [HyperFDA: a bi-level Optimization Approach to Neural Architecture Search and Hyperparameters’ optimization via fractal decomposition-based algorithm(Souquet et al. 2020) ](https://dl.acm.org/doi/abs/10.1145/3377929.3390056)  <br>*accepted at GECCO 2020*  | - | - |
 | [Towards Evolving Robust Neural Architectures to Defend From Adversarial Attacks(Kotyan and Vargas) ](https://dl.acm.org/doi/abs/10.1145/3377929.3390004)  <br>*accepted at GECCO 2020*  | - | - |
 | [A first Step toward Incremental Evolution of Convolutional Neural Networks(Barnes et al. 2020) ](https://dl.acm.org/doi/abs/10.1145/3377929.3389916)  <br>*accepted at GECCO 2020*  | - | - |
 | [Computational model for neural architecture search(Gottapu 2020) ](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=3871&context=doctoral_dissertations)   | - | - |
-| [Neural Architecture Search for extreme multi-label classification: an evolutionary approach(Pauletto et al. 2020) ](https://hal.archives-ouvertes.fr/hal-02889047/document)   | - | - |
+| [Neural Architecture Search for extreme multi-label classification: an evolutionary approach(Pauletto et al. 2020) ](https://hal.archives-ouvertes.fr/hal-02889047/document)   | Multi-label Classification | - |
 | [Hyperparameter Optimization in Neural Networks via Structured Sparse Recovery(Cho et al. 2020) ](https://arxiv.org/abs/2007.04087)   | - | - |
-| [Journey Towards Tiny Perceptual Super-Resolution(Lee et al. 2020) ](https://arxiv.org/abs/2007.04356)   | - | - |
+| [Journey Towards Tiny Perceptual Super-Resolution(Lee et al. 2020) ](https://arxiv.org/abs/2007.04356)   | Image Translator <br> Super-Resolution | - |
 | [Self-supervised Neural Architecture Search(Kaplan and Giryes 2020) ](https://arxiv.org/abs/2007.01500)   | - | - |
-| [Blocks for Image Classification(Wang et al. 2020) ](https://arxiv.org/abs/2007.01556)   | - | - |
-| [Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation(Wang et al. 2020) ](https://arxiv.org/abs/2007.02749)   | - | - |
+| [Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation(Wang et al. 2020) ](https://arxiv.org/abs/2007.02749)   | Multi-objective Search | [Github](https://github.com/wangcn0201/MoARR) |
 | [Parametric machines: a fresh approach to architecture search(Vertechi et al. 2020) ](https://arxiv.org/abs/2007.02777)   | - | - |
 | [Discretization-Aware Architecture Search(Tian et al. 2020) ](https://arxiv.org/abs/2007.03154)   | - | - |
 | [GOLD-NAS: Gradual, One-Level, Differentiable(Bi et al. 2020) ](https://arxiv.org/abs/2007.03331)   | - | - |
-| [Surrogate-assisted Particle Swarm Optimisation for Evolving Variable-length Transferable(Wang et al. 2020) ](https://arxiv.org/abs/2007.01556)   | - | - |
-| [M-NAS: Meta Neural Architecture Search(Wang et al. 2020) ](https://aaai.org/ojs/index.php/AAAI/article/view/6084)  <br>*accepted at AAAI 2020*  | - | - |
-| [FiFTy: Large-scale File Fragment Type Identification using Convolutional Neural Networks(Mittal et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9122499)  <br>*accepted at IEEE Transactions on Information Forensics and Security*  | - | - |
-| [RSNet: The Search for Remote Sensing Deep Neural Networks in Recognition Tasks(Wang et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9123590)  <br>*accepted at IEEE Transactions on Geoscience and Remote Sensing*  | - | - |
-| [Theory-Inspired Path-Regularized Differential Network Architecture Search(Zhou et al. 2020) ](https://arxiv.org/abs/2006.16537)   | - | - |
+| [Surrogate-assisted Particle Swarm Optimisation for Evolving Variable-length Transferable(Wang et al. 2020) ](https://arxiv.org/abs/2007.01556)   | Search Strategy | - |
+| [M-NAS: Meta Neural Architecture Search(Wang et al. 2020) ](https://aaai.org/ojs/index.php/AAAI/article/view/6084)  <br>*accepted at AAAI 2020*  | Meta-learning | - |
+| [FiFTy: Large-scale File Fragment Type Identification using Convolutional Neural Networks(Mittal et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9122499)  <br>*accepted at IEEE Transactions on Information Forensics and Security*  | File-type Identification <br> Forensics | - |
+| [RSNet: The Search for Remote Sensing Deep Neural Networks in Recognition Tasks(Wang et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9123590)  <br>*accepted at IEEE Transactions on Geoscience and Remote Sensing*  | Remote Sensing | - |
+| [Theory-Inspired Path-Regularized Differential Network Architecture Search(Zhou et al. 2020) ](https://arxiv.org/abs/2006.16537)   | Search Strategy | - |
 | [The Heterogeneity Hypothesis: Finding Layer-Wise Dissimilated Network Architecture(Li et al. 2020) ](https://arxiv.org/abs/2006.16242)   | - | - |
 | [Semi-Discrete Optimization Through Semi-Discrete Optimal Transport: A Framework for Neural Architecture Search(Trillos and Morales 2020) ](https://arxiv.org/abs/2006.15221)   | - | - |
-| [Traditional And Accelerated Gradient Descent for Neural Architecture Search(Trillos et al. 2020) ](https://arxiv.org/abs/2006.15218)   | - | - |
-| [AutoSNAP: Automatically Learning Neural Architectures for Instrument Pose Estimation(Kügler et al. 2020) ](https://arxiv.org/abs/2006.14858)   | - | - |
-| [Evolutionary Recurrent Neural Architecture Search(Tian et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9129784)  <br>*accepted at IEEE Embedded System Letters*  | - | - |
-| [Neural-Architecture-Search-Based Multiobjective Cognitive Automation System(Wang et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9127493)  <br>*accepted at IEEE System Journal*  | - | - |
-| [Enhancing Model Parallelism in Neural Architecture Search for Multi-device System(Fu et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9127125)  <br>*accepted at IEEE Micro*  | - | - |
-| [AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction(Li et al. 2020) ](http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf)  <br>*accepted at KDD 2020*  | - | - |
-| [Neural Architecture Search for Sparse DenseNets with Dynamic Compression(O’Neill et al. 2020) ](https://dl.acm.org/doi/abs/10.1145/3377930.3390178)  <br>*accepted at GECCO 2020*  | - | - |
-| [Searching towards Class-Aware Generators for Conditional Generative Adversarial Networks(Zhou et al. 2020) ](https://arxiv.org/abs/2006.14208)   | - | - |
+| [Traditional And Accelerated Gradient Descent for Neural Architecture Search(Trillos et al. 2020) ](https://arxiv.org/abs/2006.15218)   | Search Strategy | - |
+| [AutoSNAP: Automatically Learning Neural Architectures for Instrument Pose Estimation(Kügler et al. 2020) ](https://arxiv.org/abs/2006.14858) <br> *accepted at MICCAI 2020*   | Pose Estimation | [Github](https://github.com/MECLabTUDA/AutoSNAP) |
+| [Evolutionary Recurrent Neural Architecture Search(Tian et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9129784)  <br>*accepted at IEEE Embedded System Letters*  | Search Strategy | - |
+| [Neural-Architecture-Search-Based Multiobjective Cognitive Automation System(Wang et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9127493)  <br>*accepted at IEEE System Journal*  | Cognitive Computing <br> Multi-objective Search | - |
+| [Enhancing Model Parallelism in Neural Architecture Search for Multi-device System(Fu et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9127125)  <br>*accepted at IEEE Micro*  | Multi-device System | - |
+| [AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction(Li et al. 2020) ](http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf)  <br>*accepted at KDD 2020*  | Spatio-Temporal Prediction | - |
+| [Neural Architecture Search for Sparse DenseNets with Dynamic Compression(O’Neill et al. 2020) ](https://dl.acm.org/doi/abs/10.1145/3377930.3390178)  <br>*accepted at GECCO 2020*  | Search Strategy | - |
+| [Searching towards Class-Aware Generators for Conditional Generative Adversarial Networks(Zhou et al. 2020) ](https://arxiv.org/abs/2006.14208)   | GAN | [Github](https://github.com/PeterouZh/NAS_cGAN) |
 | [Neural Architecture Design for GPU-Efficient Networks(Lin et al. 2020) ](https://arxiv.org/abs/2006.14090)   | - | - |
 | [Equivalence in Deep Neural Networks via Conjugate Matrix Ensembles(Süzen 2020) ](https://arxiv.org/abs/2006.13687)   | - | - |
 | [Auto-PyTorch Tabular: Multi-Fidelity MetaLearning for Efficient and Robust AutoDL(Zimmer et al. 2020) ](https://arxiv.org/abs/2006.13799)   | - | - |
 | [NASTransfer: Analyzing Architecture Transferability in Large Scale Neural Architecture Search(Panda et al. 2020) ](https://arxiv.org/abs/2006.13314)   | - | - |
-| [Tiny Video Networks: Architecture Search for Efficient Video Models(Piergiovanni et al. 2020) ](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b2238e19f1f4abdf17c5fff0f3fa824c5eee1e78.pdf)  <br>*accepted at 7th ICML Workshop on Automated Machine Learning, 2020*  | - | - |
-| [FNA++: Fast Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) ](https://arxiv.org/abs/2006.12986)   | - | - |
+| [Tiny Video Networks: Architecture Search for Efficient Video Models(Piergiovanni et al. 2020) ](https://research.google/pubs/pub49263/)  <br>*accepted at 7th ICML Workshop on Automated Machine Learning, 2020*  | Video Understanding | - |
+| [FNA++: Fast Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) ](https://arxiv.org/abs/2006.12986) <br> *accepted at  ICLR 2020*  | Semantic Segmentation<br>Object Detection | [Github](https://github.com/JaminFong/FNA) |
 | [Neural networks adapting to datasets: learning network size and topology(Janik and Nowak 2020) ](https://arxiv.org/abs/2006.12195)   | - | - |
-| [AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning(Li et al. 2020) ](https://arxiv.org/abs/2006.11321)   | - | - |
-| [Reinforcement Learning Aided Network Architecture Generation for JPEG Image Steganalysis(Yang et al. 2020) ](https://dl.acm.org/doi/proceedings/10.1145/3369412)  <br>*accepted at Proceedings of the 2020 ACM Workshop on Information Hiding and Multimedia Security*  | - | - |
-| [Neural Architecture Search for Time Series Classification(Rakhshani et al. 2020) ](https://germain-forestier.info/publis/ijcnn2020.pdf)  <br>*accepted at ijcnn 2020*  | - | - |
-| [Cyclic Differentiable Architecture Search(Yu et al. 2020) ](https://arxiv.org/abs/2006.10724)   | - | - |
-| [Differentially-private Federated Neural Architecture Search(Singh et al. 2020) ](https://arxiv.org/abs/2006.10559)   | - | - |
-| [DrNAS: Dirichlet Neural Architecture Search(Chen et al. 2020) ](https://arxiv.org/abs/2006.10355)   | - | - |
-| [Neural Architecture Optimization with Graph VAE(Li et al. 2020) ](https://arxiv.org/abs/2006.10310)   | - | - |
-| [Fine-Grained Stochastic Architecture Search(Chaudhuri et al. 2020) ](https://arxiv.org/abs/2006.09581)   | - | - |
-| [Bonsai-Net: One-Shot Neural Architecture Search via Differentiable Pruners(Geada et al. 2020) ](https://arxiv.org/abs/2006.09264)   | - | - |
-| [AlphaGAN: Fully Differentiable Architecture Search for Generative Adversarial Networks(Tian et al. 2020) ](https://arxiv.org/abs/2006.09134)   | - | - |
-| [Fine-Tuning DARTS for Image Classification(Tanveer et al. 2020) ](https://arxiv.org/abs/2006.09042)   | - | - |
+| [AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning(Li et al. 2020) ](https://arxiv.org/abs/2006.11321)   | Outlier Detection <br> Imitation Learning | - |
+| [Reinforcement Learning Aided Network Architecture Generation for JPEG Image Steganalysis(Yang et al. 2020) ](https://dl.acm.org/doi/abs/10.1145/3369412.3395060)  <br>*accepted at Proceedings of the 2020 ACM Workshop on Information Hiding and Multimedia Security*  | Image Steganalysis | - |
+| [Neural Architecture Search for Time Series Classification(Rakhshani et al. 2020) ](https://germain-forestier.info/publis/ijcnn2020.pdf)  <br>*accepted at ijcnn 2020*  | Time Series | - |
+| [Cyclic Differentiable Architecture Search(Yu et al. 2020) ](https://arxiv.org/abs/2006.10724)   | Search Strategy | [Github](https://github.com/researchmm/CDARTS) |
+| [Differentially-private Federated Neural Architecture Search(Singh et al. 2020) ](https://arxiv.org/abs/2006.10559)   | Federated Learning  | [Github](https://github.com/UCSD-AI4H/DP-FNAS) |
+| [DrNAS: Dirichlet Neural Architecture Search(Chen et al. 2020) ](https://arxiv.org/abs/2006.10355)   | Search Strategy | [Github](https://github.com/xiangning-chen/DrNAS) |
+| [Neural Architecture Optimization with Graph VAE(Li et al. 2020) ](https://arxiv.org/abs/2006.10310)   | Estimation Strategy <br> VAE <br> GNN | - |
+| [Fine-Grained Stochastic Architecture Search(Chaudhuri et al. 2020) ](https://arxiv.org/abs/2006.09581)   | Search Strategy | - |
+| [Bonsai-Net: One-Shot Neural Architecture Search via Differentiable Pruners(Geada et al. 2020) ](https://arxiv.org/abs/2006.09264)   | Search Strategy | [Github](https://github.com/RobGeada/bonsai-net-lite) |
+| [AlphaGAN: Fully Differentiable Architecture Search for Generative Adversarial Networks(Tian et al. 2020) ](https://arxiv.org/abs/2006.09134)   | GAN <br> DARTS | [Github](https://github.com/yuesongtian/AlphaGAN) |
+| [Fine-Tuning DARTS for Image Classification(Tanveer et al. 2020) ](https://arxiv.org/abs/2006.09042)   | DARTS | - |
 | [Neural Anisotropy Directions(Ortiz-Jiménez et al. 2020) ](https://arxiv.org/abs/2006.09717)   | - | - |
-| [CryptoNAS: Private Inference on a ReLU Budget(Ghodsi et al. 2020) ](https://arxiv.org/abs/2006.08733)   | - | - |
-| [Heuristic Architecture Search Using Network Morphism for Chest X-Ray Classification(Radiuk and Kutucu 2020) ](http://ceur-ws.org/Vol-2623/paper11.pdf)   | - | - |
-| [Task-aware Performance Prediction for Efficient Architecture Search(Kokiopoulou et al. 2020) ](http://ecai2020.eu/papers/256_paper.pdf)  <br>*accepted at ECAI 2020*  | - | - |
-| [Beyond Network Pruning: a Joint Search-and-Training Approach(Lu et al. 2020) ](http://see.xidian.edu.cn/faculty/wsdong/Papers/Conference/ijcai20.pdf)  <br>*accepted at IJCAI 2020*  | - | - |
+| [CryptoNAS: Private Inference on a ReLU Budget(Ghodsi et al. 2020) ](https://arxiv.org/abs/2006.08733)   | Private Inference | - |
+| [Heuristic Architecture Search Using Network Morphism for Chest X-Ray Classification(Radiuk and Kutucu 2020) ](http://ceur-ws.org/Vol-2623/paper11.pdf)   | Medical <br> Network Morphism | - |
+| [Task-aware Performance Prediction for Efficient Architecture Search(Kokiopoulou et al. 2020) ](http://ecai2020.eu/papers/256_paper.pdf)  <br>*accepted at ECAI 2020*  | Estimation Strategy | - |
+| [Beyond Network Pruning: a Joint Search-and-Training Approach(Lu et al. 2020) ](http://see.xidian.edu.cn/faculty/wsdong/Papers/Conference/ijcai20.pdf)  <br>*accepted at IJCAI 2020*  | Multi-objective Search | - |
 | [Neural Ensemble Search for Performant and Calibrated Predictions(Zaidi et al. 2020) ](https://arxiv.org/abs/2006.08573)   | Ensemble | - |
 | [Multi-fidelity Neural Architecture Search with Knowledge Distillation(Trofimov et al. 2020) ](https://arxiv.org/abs/2006.08341)   | Estimation Strategy | - |
 | [Differentiable Neural Architecture Transformation for Reproducible Architecture Improvement(Kim et al. 2020) ](https://arxiv.org/pdf/2006.08231.pdf)   | - | - |
