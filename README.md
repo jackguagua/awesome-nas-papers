@@ -160,25 +160,24 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [DC-NAS: Divide-and-Conquer Neural Architecture Search(Wang et al. 2020) ](https://arxiv.org/abs/2005.14456)   | - | - |
 | [HourNAS: Extremely Fast Neural Architecture Search Through an Hourglass Lens(Yang et al. 2020) ](https://arxiv.org/abs/2005.14446)   | - | - |
 | [Designing Resource-Constrained Neural Networks Using Neural Architecture Search Targeting Embedded Devices(Cassimon et al. 2020) ](https://www.sciencedirect.com/science/article/pii/S2542660520300676)  <br>*accepted at IEEE Internet of Things*  | - | - |
-| [Searching Better Architectures for Neural Machine Translation(Fan et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9095246)  <br>*accepted at IEEE/ACM Transactions on Audio, Speech, and Language Processing*  | - | - |
-| [Automated Design of Neural Network Architectures with Reinforcement Learning for Detection of Global Manipulations(Chen et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9103245)  <br>*accepted at IEEE Journal of Selected Topics in Signal Processing*  | - | - |
-| [A New Deep Neural Architecture Search Pipeline for Face Recognition(Zhu et al. 2020) ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9091879)  <br>*accepted at IEEE Access*  | - | - |
-| [Regularized Evolution for Marco Neural Architecture Search(Kyriakides and Margaritis) ](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_10)  <br>*accepted at AIAI2020*  | - | - |
+| [Searching Better Architectures for Neural Machine Translation(Fan et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9095246)  <br>*accepted at IEEE/ACM Transactions on Audio, Speech, and Language Processing*  | Language Modeling <br> Machine Translation | - |
+| [Automated Design of Neural Network Architectures with Reinforcement Learning for Detection of Global Manipulations(Chen et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9103245)  <br>*accepted at IEEE Journal of Selected Topics in Signal Processing*  | Object Detection | - |
+| [A New Deep Neural Architecture Search Pipeline for Face Recognition(Zhu et al. 2020) ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9091879)  <br>*accepted at IEEE Access*  | Face Recognition <br>  | - |
+| [Regularized Evolution for Marco Neural Architecture Search(Kyriakides and Margaritis) ](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_10)  <br>*accepted at AIAI2020*  | Search Strategy | - |
 | [Evolutionary NAS with Gene Expression Programming of Cellular Encoding(Broni-Bediako et al. 2020) ](https://arxiv.org/abs/2005.13110)   | - | - |
-| [Synthetic Petri Dish: A Novel Surrogate Model for Rapid Architecture Search(Rawal et al. 2020) ](https://arxiv.org/abs/2005.13092)   | - | - |
-| [Designing Convolutional Neural Network Architectures Using Cartesian Genetic Programming(Suganuma et al. 2020) ](https://link.springer.com/chapter/10.1007/978-981-15-3685-4_7)  <br>*accepted at accepted in book on “Deep Neural Evolution”*  | - | - |
-| [An Introduction to Neural Architecture Search for Convolutional Networks(Kyriakides and Margaritis, 2020) ](https://arxiv.org/abs/2005.11074)   | - | - |
+| [Synthetic Petri Dish: A Novel Surrogate Model for Rapid Architecture Search(Rawal et al. 2020) ](https://arxiv.org/abs/2005.13092)   | Search Strategy<br> Estimation Strategy | [Github](https://github.com/uber-research/Synthetic-Petri-Dish) |
+| [Designing Convolutional Neural Network Architectures Using Cartesian Genetic Programming(Suganuma et al. 2020) ](https://link.springer.com/chapter/10.1007/978-981-15-3685-4_7)  <br>*accepted at accepted in book on “Deep Neural Evolution”*  | Search Strategy | - |
+| [An Introduction to Neural Architecture Search for Convolutional Networks(Kyriakides and Margaritis, 2020) ](https://arxiv.org/abs/2005.11074)   | Survey | - |
 | [AutoSegNet: An Automated Neural Network for Image Segmentation(Xu et al. 2020) ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9095283)  <br>*accepted at IEEE Access*  | Medical <br> Image Segmentation | - |
-| [DMS: Differentiable Dimension Search for Binary Neural Networks(Li et al. 2020) ](https://xhplus.github.io/publication/conference-paper/iclr2020/dms/DMS.pdf)  <br>*accepted at 1st Workshop on Neural Architecture Search at ICLR 2020*  | - | - |
-| [Evolving Deep Neural Networks for X-ray Based Detection of Dangerous Objects(Tsukada et al. 2020) ](https://link.springer.com/chapter/10.1007/978-981-15-3685-4_12)  <br>*accepted at accepted in book on “Deep Neural Evolution”*  | - | - |
+| [DMS: Differentiable Dimension Search for Binary Neural Networks(Li et al. 2020) ](https://xhplus.github.io/publication/conference-paper/iclr2020/dms/DMS.pdf)  <br>*accepted at 1st Workshop on Neural Architecture Search at ICLR 2020*  | Search Strategy <br> Binary Networks | - |
+| [Evolving Deep Neural Networks for X-ray Based Detection of Dangerous Objects(Tsukada et al. 2020) ](https://link.springer.com/chapter/10.1007/978-981-15-3685-4_12)  <br>*accepted at accepted in book on “Deep Neural Evolution”*  | Medical | - |
 | [Powering One-shot Topological NAS with Stabilized Share-parameter Proxy(Guo et al. 2020) ](https://arxiv.org/abs/2005.10511)   | - | - |
-| [Optimize CNN Model for FMRI Signal Classification Via Adanet-Based Neural Architecture Search(Dai et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9098574)  <br>*accepted at IEEE ISBI*  | - | - |
-| [Rethinking Performance Estimation in Neural Architecture Search(Zheng et al. 2020) ](https://arxiv.org/abs/2005.09917)  <br>*accepted at CVPR 2020*  | - | - |
+| [Optimize CNN Model for FMRI Signal Classification Via Adanet-Based Neural Architecture Search(Dai et al. 2020) ](https://ieeexplore.ieee.org/abstract/document/9098574)  <br>*accepted at IEEE ISBI*  | Medical | - |
+| [Rethinking Performance Estimation in Neural Architecture Search(Zheng et al. 2020) ](https://arxiv.org/abs/2005.09917)  <br>*accepted at CVPR 2020*  | Estimation Strategy | [Github](https://github.com/CVPR2020-ID1073/Rethinking-Performance-Estimation-in-Neural-Architecture-Search) |
 | [Application of a genetic algorithm to search for the optimal convolutional neural network architecture with weight distribution(Radiuk 2020) ](http://elar.khnu.km.ua/jspui/bitstream/123456789/8960/1/%D0%A0%D0%90%D0%94%D0%AE%D0%9A.pdf)   | - | - |
-| [HNAS: Hierarchical Neural Architecture Search on Mobile Devices(Xia et al. 2020) ](https://arxiv.org/abs/2005.07564)   | - | - |
-| [Improving Neuroevolution Using Island Extinction And Repopulation(Lyu et al. 2020) ](https://arxiv.org/abs/2005.07376)   | - | - |
-| [A Framework for Exploring and Modelling Neural Architecture Search Methods(Radiuk et al. 2020) ](http://ceur-ws.org/Vol-2604/paper70.pdf)   | - | - |
-| [You Only Search Once: A Fast Automation Framework for Single-Stage DNN/Accelerator Co-design(Chen et al. 2020) ](https://arxiv.org/abs/2005.07075)   | - | - |
+| [HNAS: Hierarchical Neural Architecture Search on Mobile Devices(Xia et al. 2020) ](https://arxiv.org/abs/2005.07564)   | Search Strategy <br> Model Compression | - |
+| [Improving Neuroevolution Using Island Extinction And Repopulation(Lyu et al. 2020) ](https://arxiv.org/abs/2005.07376)   | Time Series <br> Evolutionary  | - |
+| [You Only Search Once: A Fast Automation Framework for Single-Stage DNN/Accelerator Co-design(Chen et al. 2020) ](https://arxiv.org/abs/2005.07075)   | Multi-objective Search | - |
 | [DARTS-ASR: Differentiable Architecture Search for Multilingual Speech Recognition and Adaptation(Chen et al. 2020) ](https://arxiv.org/abs/2005.07029) <br> *accepted at INTERSPEECH 2020*  | Speech Recognition <br> DARTS | - |
 | [A Semi-Supervised Assessor of Neural Architectures(Tang et al. 2020) ](https://arxiv.org/abs/2005.06821)  <br>*accepted at CVPR 2020*  | Estimation Strategy <br> GNN | - |
 | [Neural Architecture Search for Gliomas Segmentation on Multimodal Magnetic Resonance Imaging(Wang et al. 2020) ](https://arxiv.org/abs/2005.06338)   | Medical | - |
@@ -279,7 +278,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | [Multi-objective Neural Architecture Search via Non-stationary Policy Gradient(Chen et al. 2020) ](https://arxiv.org/abs/2001.08437)   | RL <br>Controller-based | - |
 | [Efficient Neural Architecture Search: A Broad Version(Ding et al. 2020) ](https://arxiv.org/abs/2001.06679)   | ENAS | - |
 | [ENAS U-Net: Evolutionary Neural Architecture Search for Retinal Vessel(Fan et al. 2020) ](https://arxiv.org/abs/2001.06678)   | Medical <br>Image Segmentation <br>Evolutionary | - |
-| [FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks(Iqbal et al. 2020) ](https://arxiv.org/abs/2001.06588)   | Multi Objective Search <br> Bayesian Optimization | [Github](https://github.com/softsys4ai/FlexiBO) |
+| [FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks(Iqbal et al. 2020) ](https://arxiv.org/abs/2001.06588)   | Multi-objective Search <br> Bayesian Optimization | [Github](https://github.com/softsys4ai/FlexiBO) |
 | [Up to two billion times acceleration of scientific simulations with deep neural architecture search(Kasim et al. 2020) ](https://arxiv.org/abs/2001.08055)   | Scientific Simulations <br> ProxylessNAS | - |
 | [Latency-Aware Differentiable Neural Architecture Search(Xu et al. 2020) ](https://arxiv.org/abs/2001.06392)   | DARTS | - |
 | [MixPath: A Unified Approach for One-shot Neural Architecture Search(Chu et al. 2020) ](https://arxiv.org/abs/2001.05887)   | One-shot | - |
