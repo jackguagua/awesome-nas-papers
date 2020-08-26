@@ -41,9 +41,6 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 - [Distributed System](#Distributed_System) 
 - [Benchmark](#Benchmark) 
 
-- 
-
-
  
 ### Medical
 
