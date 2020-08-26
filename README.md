@@ -11,37 +11,38 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 - [2016](#2016) (10)
 - [1988~2015](#1988-2015) (12)
 
+
 ### Tasks
 - [Medical](#Medical) 
-- [Image Segmentation](#Image Segmentation) 
-- [Model Compression](#Model Compression) 
-- [Multi-objective Search](#Multi-objective Search) 
-- [Object Detection](#Object Detection) 
+- [Image Segmentation](#Image_Segmentation) 
+- [Model Compression](#Model_Compression) 
+- [Multi-objective Search](#Multi-objective_Search) 
+- [Object Detection](#Object_Detection) 
 - [GAN](#GAN) 
-- [Image Translator](#Image Translator) 
-- [Video Models](#Video Models) 
+- [Image Translator](#Image_Translator) 
+- [Video Models](#Video_Models) 
 - [GNN](#GNN) 
 - [Unsupervised](#Unsupervised) 
-- [Binary Networks](#Binary Networks) 
+- [Binary Networks](#Binary_Networks) 
 - [CTR](#CTR) 
-- [Multimodal Learning](#Multimodal Learning) 
-- [Federated Learning](#Federated Learning) 
-- [Speech Recognition](#Speech Recognition) 
+- [Multimodal Learning](#Multimodal_Learning) 
+- [Federated Learning](#Federated_Learning) 
+- [Speech Recognition](#Speech_Recognition) 
 - [Benchmark](#Benchmark) 
-- [Remote Sensing](#Remote Sensing) 
-- [3D Deep Learning](#3D Deep Learning) 
-- [Scene Text Recognition](#Scene Text Recognition) 
+- [Remote Sensing](#Remote_Sensing) 
+- [3D Deep Learning](#3D_Deep_Learning) 
+- [Scene Text Recognition](#Scene_Text_Recognition) 
 - [NLP](#NLP) 
-- [Private Inference](#Private Inference) 
-- [Imitation Learning](#Imitation Learning) 
-- [Time Series](#Time Series) 
-- [Semantic Segmentation](#Semantic Segmentation) 
-- [Distributed System](#Distributed System) 
-- [Autonomous Driving](#Autonomous Driving) 
+- [Private Inference](#Private_Inference) 
+- [Imitation Learning](#Imitation_Learning) 
+- [Time Series](#Time_Series) 
+- [Semantic Segmentation](#Semantic_Segmentation) 
+- [Distributed System](#Distributed_System) 
+- [Autonomous Driving](#Autonomous_Driving) 
 - [Meta-learning](#Meta-learning) 
-- [Language Modeling](#Language Modeling) 
-- [Image Denoising](#Image Denoising) 
-- [Image Recognition](#Image Recognition) 
+- [Language Modeling](#Language_Modeling) 
+- [Image Denoising](#Image_Denoising) 
+- [Image Recognition](#Image_Recognition) 
 
 
  
@@ -84,7 +85,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Image Segmentation
+### Image_Segmentation
 
 - [back to top](#Tasks)
 
@@ -117,7 +118,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Model Compression
+### Model_Compression
 
 - [back to top](#Tasks)
 
@@ -148,7 +149,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Multi-objective Search
+### Multi-objective_Search
 
 - [back to top](#Tasks)
 
@@ -171,7 +172,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Object Detection
+### Object_Detection
 
 - [back to top](#Tasks)
 
@@ -206,7 +207,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Image Translator
+### Image_Translator
 
 - [back to top](#Tasks)
 
@@ -221,7 +222,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Video Models
+### Video_Models
 
 - [back to top](#Tasks)
 
@@ -263,7 +264,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Binary Networks
+### Binary_Networks
 
 - [back to top](#Tasks)
 
@@ -289,7 +290,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Multimodal Learning
+### Multimodal_Learning
 
 - [back to top](#Tasks)
 
@@ -302,7 +303,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Federated Learning
+### Federated_Learning
 
 - [back to top](#Tasks)
 
@@ -315,7 +316,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Speech Recognition
+### Speech_Recognition
 
 - [back to top](#Tasks)
 
@@ -339,7 +340,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Remote Sensing
+### Remote_Sensing
 
 - [back to top](#Tasks)
 
@@ -351,7 +352,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### 3D Deep Learning
+### 3D_Deep_Learning
 
 - [back to top](#Tasks)
 
@@ -363,7 +364,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Scene Text Recognition
+### Scene_Text_Recognition
 
 - [back to top](#Tasks)
 
@@ -385,7 +386,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Private Inference
+### Private_Inference
 
 - [back to top](#Tasks)
 
@@ -396,7 +397,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Imitation Learning
+### Imitation_Learning
 
 - [back to top](#Tasks)
 
@@ -407,7 +408,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Time Series
+### Time_Series
 
 - [back to top](#Tasks)
 
@@ -418,7 +419,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Semantic Segmentation
+### Semantic_Segmentation
 
 - [back to top](#Tasks)
 
@@ -429,7 +430,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Distributed System
+### Distributed_System
 
 - [back to top](#Tasks)
 
@@ -440,7 +441,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Autonomous Driving
+### Autonomous_Driving
 
 - [back to top](#Tasks)
 
@@ -462,7 +463,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Language Modeling
+### Language_Modeling
 
 - [back to top](#Tasks)
 
@@ -473,7 +474,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Image Denoising
+### Image_Denoising
 
 - [back to top](#Tasks)
 
@@ -484,7 +485,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
  
 
  
-### Image Recognition
+### Image_Recognition
 
 - [back to top](#Tasks)
 
