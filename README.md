@@ -14,35 +14,34 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 
 ### Tasks
 - [Medical](#Medical) 
-- [Image Segmentation](#Image_Segmentation) 
-- [Model Compression](#Model_Compression) 
-- [Multi-objective Search](#Multi-objective_Search) 
-- [Object Detection](#Object_Detection) 
-- [GAN](#GAN) 
-- [Image Translator](#Image_Translator) 
+- [Image Segmentation](#Image_Segmentation) /  [Object Detection](#Object_Detection) / [Semantic Segmentation](#Semantic_Segmentation) /  [Image Recognition](#Image_Recognition) 
+- [Remote Sensing](#Remote_Sensing) 
+- [Scene Text Recognition](#Scene_Text_Recognition) 
+- [Autonomous Driving](#Autonomous_Driving) 
+
+- [Image Translator](#Image_Translator) / [Image Denoising](#Image_Denoising) 
+
+- [Language Modeling](#Language_Modeling) / [Speech Recognition](#Speech_Recognition) / [NLP](#NLP) 
+
+- [Model Compression](#Model_Compression) / [Multi-objective Search](#Multi-objective_Search) / [Binary Networks](#Binary_Networks) 
+
+- [GAN](#GAN) / [Unsupervised](#Unsupervised) 
 - [Video Models](#Video_Models) 
 - [GNN](#GNN) 
-- [Unsupervised](#Unsupervised) 
-- [Binary Networks](#Binary_Networks) 
+
 - [CTR](#CTR) 
-- [Multimodal Learning](#Multimodal_Learning) 
-- [Federated Learning](#Federated_Learning) 
-- [Speech Recognition](#Speech_Recognition) 
-- [Benchmark](#Benchmark) 
-- [Remote Sensing](#Remote_Sensing) 
-- [3D Deep Learning](#3D_Deep_Learning) 
-- [Scene Text Recognition](#Scene_Text_Recognition) 
-- [NLP](#NLP) 
-- [Private Inference](#Private_Inference) 
-- [Imitation Learning](#Imitation_Learning) 
 - [Time Series](#Time_Series) 
-- [Semantic Segmentation](#Semantic_Segmentation) 
-- [Distributed System](#Distributed_System) 
-- [Autonomous Driving](#Autonomous_Driving) 
+
+- [Federated Learning](#Federated_Learning) / [Private Inference](#Private_Inference) 
+
+- [3D Deep Learning](#3D_Deep_Learning) 
+- [Multimodal Learning](#Multimodal_Learning) 
+- [Imitation Learning](#Imitation_Learning) 
 - [Meta-learning](#Meta-learning) 
-- [Language Modeling](#Language_Modeling) 
-- [Image Denoising](#Image_Denoising) 
-- [Image Recognition](#Image_Recognition) 
+- [Distributed System](#Distributed_System) 
+- [Benchmark](#Benchmark) 
+
+- 
 
 
  
@@ -495,7 +494,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | 2020 | [Memory-Efficient Models for Scene Text Recognition via Neural Architecture Search(Hong et al. 2020)](https://openaccess.thecvf.com/content_WACVW_2020/html/w3/Hong_Memory-Efficient_Models_for_Scene_Text_Recognition_via_Neural_Architecture_Search_WACVW_2020_paper.html)  <br>*accepted at WACV’20 workshop*  |   |
  
 
-
+****
 
 ### 2020
 
