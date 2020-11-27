@@ -245,7 +245,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 | 2020 | [Graph Neural Architecture Search(Gao et al. 2020)](https://www.researchgate.net/profile/Chuan_Zhou5/publication/342789484_Graph_Neural_Architecture_Search/links/5f0be495299bf18816197d15/Graph-Neural-Architecture-Search.pdf)  <br>*accepted at IJCAI 2020*  | [Github](https://github.com/GraphNAS/GraphNAS) |
 | 2020 | [A Semi-Supervised Assessor of Neural Architectures(Tang et al. 2020)](https://arxiv.org/abs/2005.06821)  <br>*accepted at CVPR 2020*  |   |
 | 2020 | [Neural Architecture Optimization with Graph VAE(Li et al. 2020)](https://arxiv.org/abs/2006.10310)   |   |
-| 2020 | [A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS(Ning et al. 2020)](https://arxiv.org/abs/2004.01899)   |   |
+| 2020 | [A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS(Ning et al. 2020)](https://arxiv.org/abs/2004.01899) <br>*accepted at ECCV 2020*  | [Github](https://github.com/walkerning/aw_nas)  |
 | 2020 | [Probabilistic Dual Network Architecture Search on Graphs(Zhao et al. 2020)](https://arxiv.org/abs/2003.09676)   |   |
  
 
