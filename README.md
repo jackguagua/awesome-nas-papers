@@ -48,6 +48,7 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 
 |Year |  Title  |  Code   |
 |:--------|:--------|:--------:|
+| 2023 | [Accurate detection of paroxysmal atrial fibrillation with certified-GAN and neural architecture search(Asadi et al. 2023)]([http://www.iieta.org/journals/ria/paper/10.18280/ria.340308](https://www.nature.com/articles/s41598-023-38541-8))  <br>*accepted at  scientific reports*  |   |
 | 2020 | [Deep Convolution Features in Non-linear Embedding Space for Fundus Image Classification(Dondeti et al. 2020)](http://www.iieta.org/journals/ria/paper/10.18280/ria.340308)  <br>*accepted at Revue d’Intelligence Artificielle*  |   |
 | 2020 | [Searching Collaborative Agents for Multi-plane Localization in 3D Ultrasound(Huang et al. 2020)](https://arxiv.org/abs/2007.15273)  <br>*accepted at MICCAI 2020*  |   |
 | 2020 | [Multi-Modality Information Fusion for Radiomics-based Neural Architecture Search(Peng et al. 2020)](https://arxiv.org/abs/2007.06002)  <br>*accepted at MICCAI 2020*  |   |
